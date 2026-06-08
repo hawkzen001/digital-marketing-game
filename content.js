@@ -10607,104 +10607,114 @@ export const activitiesData = [
         "pointsReward": 500,
         "questions": [
             {
-                "text": "[Beginner Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "What is the core definition of Affiliate Marketing?",
                 "options": [
-                    "Increased efficiency and better ROI.",
-                    "Higher operational costs",
-                    "Reduced visibility"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Beginner Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
-                "options": [
-                    "Ignoring market research",
-                    "Spending the entire budget immediately",
-                    "Defining clear objectives and KPIs."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Beginner Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Number of employees in the company",
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Office location"
+                    "Hiring internal sales staff to sell products",
+                    "A performance-based marketing model where a business rewards partners (affiliates) for each visitor or customer brought by their efforts",
+                    "Buying ad space on search engines",
+                    "Sending cold emails to purchased lists"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Affiliate marketing is a \"win-win\" model where the brand only pays the affiliate a commission after a desired action (like a sale) is successfully completed."
             },
             {
-                "text": "[Beginner Q4] What is a common pitfall to avoid in Affiliate Marketing?",
+                "text": "Who is the \"Merchant\" in an affiliate program?",
                 "options": [
-                    "Failing to track data and measure performance.",
-                    "Targeting a specific audience",
-                    "Using high-quality assets"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Beginner Q5] How does Affiliate Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It only affects offline sales",
-                    "It prevents users from converting"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Beginner Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
-                "options": [
-                    "A physical calculator",
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Beginner Q7] What role does A/B testing play in Affiliate Marketing?",
-                "options": [
-                    "It deletes campaign data",
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It is completely irrelevant"
+                    "The customer who buys the product",
+                    "The company that owns the product and pays the affiliate commission",
+                    "The website that hosts the tracking software",
+                    "The social media influencer"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "The merchant is the business or product owner. They set the program terms, commission rates, and provide the marketing assets."
             },
             {
-                "text": "[Beginner Q8] Why is mobile-optimization important for Affiliate Marketing?",
+                "text": "What does an \"Affiliate Link\" do?",
                 "options": [
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Beginner Q9] In Affiliate Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Rate of Interaction",
-                    "Return on Investment",
-                    "Revenue over Internet"
+                    "It redirects users to a competitor site",
+                    "It acts as a unique tracking URL that identifies the traffic source so the merchant knows exactly which affiliate to pay",
+                    "It hides the product price",
+                    "It automatically translates the website"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "The unique ID in the link is the \"digital handshake.\" It ensures the merchant's system attributes the sale to the correct partner."
             },
             {
-                "text": "[Beginner Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
+                "text": "What is a \"Commission Rate\"?",
                 "options": [
-                    "The Chief Legal Officer",
-                    "The Janitor",
-                    "The Marketing Manager or CMO."
+                    "The hourly wage of an affiliate",
+                    "The percentage of the sale price (or flat fee) earned by the affiliate for each successful referral",
+                    "The cost of web hosting",
+                    "The tax rate on internet sales"
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "The commission is the affiliate's compensation, negotiated as a percentage of the sale or a fixed dollar amount per conversion."
+            },
+            {
+                "text": "What is the primary benefit of the \"Pay-Per-Sale\" (PPS) model for merchants?",
+                "options": [
+                    "High upfront costs",
+                    "Zero risk; the merchant only pays for marketing *after* the revenue is generated",
+                    "Guaranteed high search rankings",
+                    "Immediate viral reach"
+                ],
+                "correctIndex": 1,
+                "explanation": "Because payment is contingent on a sale, the merchant never loses money on ads that don't convert."
+            },
+            {
+                "text": "What is \"Cookie Duration\"?",
+                "options": [
+                    "The time it takes to bake a cookie",
+                    "The length of time an affiliate\u2019s tracking cookie remains active on a user's browser, allowing for retroactive commission",
+                    "The duration of a YouTube video",
+                    "The age of the website"
+                ],
+                "correctIndex": 1,
+                "explanation": "If a user clicks an affiliate link today but buys on day 15, a 30-day cookie ensures the affiliate still gets paid."
+            },
+            {
+                "text": "What is an \"Affiliate Network\"?",
+                "options": [
+                    "A secret society of marketers",
+                    "An intermediary platform that connects merchants with affiliates, managing tracking, billing, and payments",
+                    "An email marketing service",
+                    "A social media group"
+                ],
+                "correctIndex": 1,
+                "explanation": "Networks like ShareASale or CJ Affiliate reduce friction for both sides, providing a centralized place to find programs and track performance."
+            },
+            {
+                "text": "What is \"CPA\" in affiliate marketing?",
+                "options": [
+                    "Cost Per Acquisition (or Cost Per Action)",
+                    "Click Per Affiliate",
+                    "Content Performance Analysis",
+                    "Cost Per Awareness"
+                ],
+                "correctIndex": 0,
+                "explanation": "Most affiliate programs are based on CPA; the \"action\" is typically a sale, though it can also be a lead registration."
+            },
+            {
+                "text": "Why is \"Self-Referral\" banned in almost all programs?",
+                "options": [
+                    "Because the affiliate might get a discount",
+                    "It is considered fraud; an affiliate should not earn commission on their own purchases",
+                    "It requires too much paperwork",
+                    "It slows down the website"
+                ],
+                "correctIndex": 1,
+                "explanation": "Affiliate programs are designed to acquire *new* customers. Self-referrals are just customers getting an unauthorized discount, hurting the brand's margins."
+            },
+            {
+                "text": "What is a \"Niche Website\"?",
+                "options": [
+                    "A general news website",
+                    "A website focused on a very specific topic (e.g., \"Ultralight Camping Gear\"), helping the affiliate build high trust with a targeted audience",
+                    "A site with no content",
+                    "A competitor's site"
+                ],
+                "correctIndex": 1,
+                "explanation": "Niche sites convert much better than generalist sites because the audience trusts the affiliate to be an expert in that specific area."
             }
         ]
     },
@@ -10717,105 +10727,114 @@ export const activitiesData = [
         "pointsReward": 550,
         "questions": [
             {
-                "text": "[Novice Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "What is \"Parasite SEO\"?",
                 "options": [
-                    "Higher operational costs",
-                    "Reduced visibility",
-                    "Increased efficiency and better ROI."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
-                "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately",
-                    "Ignoring market research"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Number of employees in the company",
-                    "Office location"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q4] What is a common pitfall to avoid in Affiliate Marketing?",
-                "options": [
-                    "Failing to track data and measure performance.",
-                    "Targeting a specific audience",
-                    "Using high-quality assets"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q5] How does Affiliate Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It only affects offline sales",
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting"
+                    "A technique to hack servers",
+                    "Publishing affiliate reviews on high-authority platforms (like Medium/LinkedIn) to rank for competitive terms instead of building your own site",
+                    "Stealing content from blogs",
+                    "Hiding links in code"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "This leverages the domain authority of big platforms to rank quickly, bypassing the long \"sandbox\" period for new affiliate domains."
             },
             {
-                "text": "[Novice Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
+                "text": "Why is an \"Affiliate Disclosure\" legally required?",
                 "options": [
-                    "A physical calculator",
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q7] What role does A/B testing play in Affiliate Marketing?",
-                "options": [
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It deletes campaign data",
-                    "It is completely irrelevant"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
-            },
-            {
-                "text": "[Novice Q8] Why is mobile-optimization important for Affiliate Marketing?",
-                "options": [
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q9] In Affiliate Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Revenue over Internet",
-                    "Rate of Interaction",
-                    "Return on Investment"
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
-                "options": [
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO.",
-                    "The Janitor"
+                    "To hide the link",
+                    "To clearly state that you are an affiliate and stand to earn a commission, satisfying FTC and legal transparency requirements",
+                    "To change the font color",
+                    "To block search engines"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Consumers have a legal right to know if a recommendation is unbiased or financially motivated."
+            },
+            {
+                "text": "What is a \"Two-Tier\" affiliate program?",
+                "options": [
+                    "A program with two different prices",
+                    "A model where affiliates earn commissions on their own sales *and* a percentage of sales generated by affiliates they personally recruited",
+                    "A program with two websites",
+                    "A program that lasts two days"
+                ],
+                "correctIndex": 1,
+                "explanation": "This incentivizes top affiliates to become recruiters, helping the merchant expand their partner network much faster."
+            },
+            {
+                "text": "What is the most critical metric for an affiliate to optimize?",
+                "options": [
+                    "Number of images",
+                    "Conversion Rate (how many clicks turn into sales)",
+                    "Word count",
+                    "Server uptime"
+                ],
+                "correctIndex": 1,
+                "explanation": "Traffic is worthless if it doesn't convert. Affiliates often perform \"landing page optimization\" to improve the conversion rate of their affiliate links."
+            },
+            {
+                "text": "What is \"Click Fraud\" in affiliate marketing?",
+                "options": [
+                    "Using a mouse too quickly",
+                    "Using bots to generate fake clicks on links to inflate stats or attempt to scam the merchant",
+                    "Designing a website",
+                    "Writing an email"
+                ],
+                "correctIndex": 1,
+                "explanation": "Merchants have sophisticated tools to identify bot patterns. Fraudulent activity leads to immediate account termination."
+            },
+            {
+                "text": "What is \"High-Ticket\" Affiliate Marketing?",
+                "options": [
+                    "Promoting cheap products",
+                    "Promoting expensive products where commissions are large, requiring fewer sales to earn significant income",
+                    "A program with high entrance fees",
+                    "Promoting digital books only"
+                ],
+                "correctIndex": 1,
+                "explanation": "High-ticket items (e.g., software subscriptions, specialized equipment) allow affiliates to make significant money without needing millions of visitors."
+            },
+            {
+                "text": "What is an \"Affiliate Dashboard\"?",
+                "options": [
+                    "A physical dashboard in a car",
+                    "The internal interface where affiliates view performance data (clicks, conversions, and earnings)",
+                    "A website layout tool",
+                    "A tool to edit images"
+                ],
+                "correctIndex": 1,
+                "explanation": "The dashboard is the primary tool for the affiliate to understand which links are performing best so they can optimize their content."
+            },
+            {
+                "text": "What is \"Last-Click Attribution\"?",
+                "options": [
+                    "The first affiliate gets the sale",
+                    "The last affiliate to be clicked by the user before the purchase gets 100% of the commission",
+                    "The commission is split",
+                    "No one gets paid"
+                ],
+                "correctIndex": 1,
+                "explanation": "This is the industry standard. It rewards the \"closer\"\u2014the affiliate who provided the final push for the buyer."
+            },
+            {
+                "text": "What is \"First-Click Attribution\"?",
+                "options": [
+                    "The last affiliate gets paid",
+                    "The affiliate who first introduced the customer to the brand gets the credit, regardless of later clicks",
+                    "A rule that prevents sales",
+                    "A split commission"
+                ],
+                "correctIndex": 1,
+                "explanation": "Some merchants use this to reward the affiliate who did the heavy lifting of initial brand awareness."
+            },
+            {
+                "text": "What is \"Affiliate Coupon\" tracking?",
+                "options": [
+                    "Sending mailers",
+                    "Using unique discount codes that attribute the sale to an affiliate even if they don't click a tracking link",
+                    "Changing the website price",
+                    "A tool to block coupons"
+                ],
+                "correctIndex": 1,
+                "explanation": "Coupons are great for influencers; they can say a code on video, and the merchant can still credit them even without a link click."
             }
         ]
     },
@@ -10828,106 +10847,114 @@ export const activitiesData = [
         "pointsReward": 600,
         "questions": [
             {
-                "text": "[Intermediate Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "Why is \"Content-Led Affiliate Marketing\" sustainable?",
                 "options": [
-                    "Higher operational costs",
-                    "Reduced visibility",
-                    "Increased efficiency and better ROI."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
-                "options": [
-                    "Ignoring market research",
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately"
+                    "It is free",
+                    "It provides genuine educational value, building trust that makes users more likely to purchase through the recommendation",
+                    "It blocks competitors",
+                    "It hides the affiliate link"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Users hate being sold to. When an affiliate provides a deep, helpful review, the sale becomes a natural result of the helpful advice."
             },
             {
-                "text": "[Intermediate Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
+                "text": "What is the danger of a merchant going bankrupt for an affiliate?",
                 "options": [
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Number of employees in the company",
-                    "Office location"
+                    "Their website gets faster",
+                    "Unpaid pending commissions might never be paid, and the affiliate has no way to recover the lost income",
+                    "Commission rates rise",
+                    "The product improves"
+                ],
+                "correctIndex": 1,
+                "explanation": "Always vet your merchants. If a merchant has a poor reputation or financial issues, you risk your time and effort being wasted."
+            },
+            {
+                "text": "What is \"Global Affiliate Marketing\"?",
+                "options": [
+                    "Targeting one specific city",
+                    "Partnering with affiliates worldwide to reach international markets, handling different currencies and languages",
+                    "Using only one currency",
+                    "Banning international traffic"
+                ],
+                "correctIndex": 1,
+                "explanation": "Digital products (like software) make global affiliate marketing easy, as the product can be sold anywhere without shipping logistics."
+            },
+            {
+                "text": "What is \"Negative SEO\" in affiliate marketing?",
+                "options": [
+                    "Writing good reviews",
+                    "Spamming a merchant's site to try and hurt their search rank, hoping to weaken the merchant's authority",
+                    "Deleting the website",
+                    "Buying Google Ads"
+                ],
+                "correctIndex": 1,
+                "explanation": "It's rare and ineffective against major brands, but some unethical actors try to sabotage competing affiliate sites by pointing spam links at them."
+            },
+            {
+                "text": "What are \"Display Ads\" in an affiliate context?",
+                "options": [
+                    "Banners provided by the merchant for the affiliate to place on their website",
+                    "Ads you buy on Facebook",
+                    "Text-only emails",
+                    "Social media posts"
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Merchants provide these assets so affiliates don't have to hire a designer, ensuring brand consistency."
             },
             {
-                "text": "[Intermediate Q4] What is a common pitfall to avoid in Affiliate Marketing?",
+                "text": "What are \"Affiliate Aggregators\"?",
                 "options": [
-                    "Failing to track data and measure performance.",
-                    "Targeting a specific audience",
-                    "Using high-quality assets"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate Q5] How does Affiliate Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It only affects offline sales",
-                    "It prevents users from converting"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
-                "options": [
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator"
+                    "Websites that list affiliate programs, making it easier for affiliates to find and join relevant merchant programs",
+                    "A tool to delete websites",
+                    "An email spammer",
+                    "A search engine"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Aggregators help affiliates find high-paying or reliable programs, saving them from manual searching."
             },
             {
-                "text": "[Intermediate Q7] What role does A/B testing play in Affiliate Marketing?",
+                "text": "What is \"Compliance Monitoring\"?",
                 "options": [
-                    "It is completely irrelevant",
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It deletes campaign data"
+                    "Checking for spelling errors",
+                    "Automated checks to ensure affiliates follow rules (like no brand bidding on Google Ads)",
+                    "Paying commissions",
+                    "Hiring new staff"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
+                "explanation": "Merchants don't want affiliates bidding on their brand name (which drives up CPC). Compliance tools catch rule-breakers."
             },
             {
-                "text": "[Intermediate Q8] Why is mobile-optimization important for Affiliate Marketing?",
+                "text": "How does \"View Attribution\" work?",
                 "options": [
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters"
+                    "Tracking links that were viewed but not clicked",
+                    "Tracking sales resulting from users who viewed an ad/link but did not click, yet purchased later",
+                    "Hiding the link",
+                    "Deleting the view data"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/social.png"
+                "explanation": "Some users see a display banner, remember the brand, and buy later without clicking. View attribution tries to give credit for this awareness."
             },
             {
-                "text": "[Intermediate Q9] In Affiliate Marketing, what does 'ROI' stand for?",
+                "text": "What is the impact of \"Ad Blockers\" on affiliates?",
                 "options": [
-                    "Rate of Interaction",
-                    "Return on Investment",
-                    "Revenue over Internet"
+                    "They stop all sales",
+                    "They can block tracking cookies/pixels, causing \"lost\" conversions that go uncredited",
+                    "They increase earnings",
+                    "They translate the page"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "If the tracking cookie doesn't load, the sale still happens, but the merchant\u2019s system doesn't know *who* sent the customer."
             },
             {
-                "text": "[Intermediate Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
+                "text": "What is \"Cookie Stuffing\"?",
                 "options": [
-                    "The Marketing Manager or CMO.",
-                    "The Janitor",
-                    "The Chief Legal Officer"
+                    "Baking cookies",
+                    "A fraudulent practice of loading affiliate cookies on a user's browser without them ever clicking a link",
+                    "Saving website data",
+                    "A list of cookies"
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "This is illegal/unethical and a quick path to being banned from all reputable affiliate networks."
             }
         ]
     },
@@ -10940,105 +10967,114 @@ export const activitiesData = [
         "pointsReward": 650,
         "questions": [
             {
-                "text": "[Intermediate II Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "How does \"Content SEO\" impact affiliate earnings?",
                 "options": [
-                    "Higher operational costs",
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility"
+                    "It's irrelevant",
+                    "Ranking high for review keywords drives consistent, high-converting organic traffic to affiliate links",
+                    "It slows down the site",
+                    "It deletes content"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "SEO provides \"free\" traffic. If your site is the first result for \"best blender review,\" you make money while you sleep."
             },
             {
-                "text": "[Intermediate II Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
+                "text": "What is \"Seasonality\" in affiliate marketing?",
                 "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately",
-                    "Ignoring market research"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate II Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Number of employees in the company",
-                    "Office location"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate II Q4] What is a common pitfall to avoid in Affiliate Marketing?",
-                "options": [
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets"
+                    "Selling products in only one season",
+                    "Revenue spikes based on time of year, such as Black Friday or Christmas",
+                    "The weather of the website",
+                    "The color of the site"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Affiliates must prepare content 2-3 months before the season hits (e.g., Christmas reviews in September)."
             },
             {
-                "text": "[Intermediate II Q5] How does Affiliate Marketing impact the overall marketing funnel?",
+                "text": "What is an \"Evergreen Affiliate Product\"?",
                 "options": [
-                    "It only affects offline sales",
-                    "It prevents users from converting",
-                    "It drives users towards the final conversion goal."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate II Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
-                "options": [
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator",
-                    "Microsoft Word"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate II Q7] What role does A/B testing play in Affiliate Marketing?",
-                "options": [
-                    "It is completely irrelevant",
-                    "It deletes campaign data",
-                    "It helps identify the highest converting variations of a campaign."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate II Q8] Why is mobile-optimization important for Affiliate Marketing?",
-                "options": [
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/social.png"
-            },
-            {
-                "text": "[Intermediate II Q9] In Affiliate Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Revenue over Internet",
-                    "Return on Investment",
-                    "Rate of Interaction"
+                    "A product that only sells in summer",
+                    "A product with year-round demand, ensuring steady affiliate income",
+                    "A product that never sells",
+                    "A product that is only digital"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Evergreen products (e.g., household tools, pet insurance) are reliable income sources because they aren't tied to fleeting trends."
             },
             {
-                "text": "[Intermediate II Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
+                "text": "What is \"Influencer Affiliate Marketing\"?",
                 "options": [
-                    "The Janitor",
-                    "The Marketing Manager or CMO.",
-                    "The Chief Legal Officer"
+                    "Influencers only posting for free",
+                    "Influencers earning a commission on sales, rather than just an upfront flat fee",
+                    "Hiring influencers to write website code",
+                    "Buying fake followers"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "This is high-impact marketing. The influencer is now financially motivated to do a *good* job selling the product."
+            },
+            {
+                "text": "What is \"Deep Linking\"?",
+                "options": [
+                    "Linking to a competitor",
+                    "Linking to a specific product page, not just the homepage",
+                    "A way to hack a site",
+                    "A broken link"
+                ],
+                "correctIndex": 1,
+                "explanation": "Deep linking is essential for conversions. Don't send shoppers to the lobby; send them straight to the product shelf."
+            },
+            {
+                "text": "What is an \"Affiliate-Only Offer\"?",
+                "options": [
+                    "An offer that is fake",
+                    "A special discount given only to affiliates to help them stand out from other content creators",
+                    "An offer that costs more",
+                    "An offer for employees"
+                ],
+                "correctIndex": 1,
+                "explanation": "Exclusive codes give affiliates a \"reason to buy\" that the public doesn't have, which increases conversion rates."
+            },
+            {
+                "text": "How do \"Affiliate Aggregators\" monetize?",
+                "options": [
+                    "They sell hosting",
+                    "They charge affiliates or merchants for placement or list their programs for traffic",
+                    "They sell physical goods",
+                    "They hack sites"
+                ],
+                "correctIndex": 1,
+                "explanation": "They provide a directory service; the value is in the traffic they drive to affiliate programs."
+            },
+            {
+                "text": "What is \"Compliance Monitoring\" aimed at?",
+                "options": [
+                    "Speeding up the site",
+                    "Preventing brand damage (e.g., affiliates making false medical claims or bidding on the brand name)",
+                    "Deleting old posts",
+                    "Hiring new affiliates"
+                ],
+                "correctIndex": 1,
+                "explanation": "If an affiliate makes false medical claims, the *merchant* is the one who gets sued. Monitoring prevents this."
+            },
+            {
+                "text": "Why do merchants prefer \"Quality Traffic\"?",
+                "options": [
+                    "It's cheaper",
+                    "Traffic that converts (buys) is profitable; traffic that just clicks and bounces is a waste of merchant resources",
+                    "It hides the website",
+                    "It's always free"
+                ],
+                "correctIndex": 1,
+                "explanation": "Affiliates who send \"garbage\" traffic get dropped. Merchants want customers, not just clickers."
+            },
+            {
+                "text": "What is an \"Affiliate Agreement\"?",
+                "options": [
+                    "A friendship contract",
+                    "The legal document defining commission, payment terms, and behavioral rules",
+                    "A list of competitors",
+                    "A website hosting plan"
+                ],
+                "correctIndex": 1,
+                "explanation": "Without a written agreement, you have no protection. It defines what happens if a customer returns the product, for example."
             }
         ]
     },
@@ -11051,107 +11087,114 @@ export const activitiesData = [
         "pointsReward": 700,
         "questions": [
             {
-                "text": "[Advanced Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "What is the value of \"Data-Driven Decisions\" in Affiliate Marketing?",
                 "options": [
-                    "Increased efficiency and better ROI.",
-                    "Higher operational costs",
-                    "Reduced visibility"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
-                "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Ignoring market research",
-                    "Spending the entire budget immediately"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/brand.png"
-            },
-            {
-                "text": "[Advanced Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Number of employees in the company",
-                    "Office location",
-                    "Conversion rate and Customer Acquisition Cost (CAC)."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced Q4] What is a common pitfall to avoid in Affiliate Marketing?",
-                "options": [
-                    "Failing to track data and measure performance.",
-                    "Targeting a specific audience",
-                    "Using high-quality assets"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced Q5] How does Affiliate Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It prevents users from converting",
-                    "It only affects offline sales",
-                    "It drives users towards the final conversion goal."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
-                "options": [
-                    "Google Analytics or similar data tracking software.",
-                    "Microsoft Word",
-                    "A physical calculator"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced Q7] What role does A/B testing play in Affiliate Marketing?",
-                "options": [
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It deletes campaign data",
-                    "It is completely irrelevant"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/brand.png"
-            },
-            {
-                "text": "[Advanced Q8] Why is mobile-optimization important for Affiliate Marketing?",
-                "options": [
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/brand.png"
-            },
-            {
-                "text": "[Advanced Q9] In Affiliate Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Return on Investment",
-                    "Revenue over Internet",
-                    "Rate of Interaction"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
-                "options": [
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO.",
-                    "The Janitor"
+                    "Making choices based on popularity",
+                    "Using performance metrics to cut low-converting merchants and scale high-converting ones",
+                    "Deleting all data",
+                    "Ignoring user behavior"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Successful affiliates run their business like a trader. They dump losing stocks and buy winning ones."
+            },
+            {
+                "text": "How does \"Social Media Affiliate Marketing\" work?",
+                "options": [
+                    "Posting ads on Google",
+                    "Sharing affiliate links directly on platforms like Instagram/TikTok to drive sales from followers",
+                    "Hiding links on websites",
+                    "Sending cold emails"
+                ],
+                "correctIndex": 1,
+                "explanation": "It's fast and reaches followers while they are in a \"discovery\" mood. Link-in-bio tools are key here."
+            },
+            {
+                "text": "What is \"Click-to-Call\" for affiliates?",
+                "options": [
+                    "Calling people at night",
+                    "A mobile feature that dials the business number, common for local service affiliates",
+                    "Hacking a phone",
+                    "Deleting an app"
+                ],
+                "correctIndex": 1,
+                "explanation": "For local affiliates (e.g., promoting a local lawyer), a call is worth more than a click."
+            },
+            {
+                "text": "What is a \"Mobile Wallet\" coupon in affiliate terms?",
+                "options": [
+                    "Storing money",
+                    "A digital coupon saved to the user's phone, tracked to the affiliate for commission",
+                    "An email attachment",
+                    "A broken link"
+                ],
+                "correctIndex": 1,
+                "explanation": "Digital wallets allow affiliates to reach users even when they are offline, and track the sale when the coupon is redeemed."
+            },
+            {
+                "text": "Why is \"Mobile Optimization\" critical for affiliates?",
+                "options": [
+                    "Because phones are pretty",
+                    "Most traffic is on mobile; if the affiliate link leads to a broken mobile site, the sale is lost",
+                    "It deletes the desktop site",
+                    "It's legally required"
+                ],
+                "correctIndex": 1,
+                "explanation": "If your review site is not mobile-friendly, you lose 60% of your potential commission revenue immediately."
+            },
+            {
+                "text": "What is \"In-App Affiliate Marketing\"?",
+                "options": [
+                    "Promoting only websites",
+                    "Promoting products through deep links inside mobile apps",
+                    "Hacking an app",
+                    "Deleting apps"
+                ],
+                "correctIndex": 1,
+                "explanation": "Apps are where mobile users live. Promoting an app-based service inside another app creates a seamless path to conversion."
+            },
+            {
+                "text": "What is \"Deep Linking\"?",
+                "options": [
+                    "Linking to the homepage",
+                    "Linking to specific content (e.g., a specific product page inside an app or site)",
+                    "A way to crash a site",
+                    "Hiding links"
+                ],
+                "correctIndex": 1,
+                "explanation": "Deep linking eliminates the \"browse\" step, allowing the user to buy the specific item they wanted instantly."
+            },
+            {
+                "text": "How does \"Zero-Party Data\" help affiliates?",
+                "options": [
+                    "By tracking users secretly",
+                    "Users tell the affiliate exactly what they want, allowing for perfect product recommendations",
+                    "It deletes all cookies",
+                    "It is illegal"
+                ],
+                "correctIndex": 1,
+                "explanation": "If a user tells you they want \"running shoes for flat feet,\" you have 100% accurate data to promote the right product."
+            },
+            {
+                "text": "Why is \"Consistency\" important for affiliate sites?",
+                "options": [
+                    "Because Google loves frequency",
+                    "Regular publishing builds an audience that trusts your reviews, leading to higher long-term affiliate revenue",
+                    "It makes the site look better",
+                    "It prevents hacking"
+                ],
+                "correctIndex": 1,
+                "explanation": "A site that hasn't been updated in 2 years is viewed as untrustworthy by users and Google alike."
+            },
+            {
+                "text": "What is the ultimate goal of \"Conversion Rate Optimization\" (CRO) for affiliates?",
+                "options": [
+                    "Increasing the number of clicks",
+                    "Increasing the percentage of people who click and then buy, maximizing earnings from existing traffic",
+                    "Hiding the affiliate link",
+                    "Decreasing the number of sales"
+                ],
+                "correctIndex": 1,
+                "explanation": "If you have 1,000 visitors, 1% conversion gets you 10 sales. Improving to 2% gets you 20 sales without needing *any* new traffic."
             }
         ]
     },
@@ -11164,105 +11207,114 @@ export const activitiesData = [
         "pointsReward": 750,
         "questions": [
             {
-                "text": "[Advanced II Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "What is an \"Affiliate Network Platform\"?",
                 "options": [
-                    "Higher operational costs",
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility"
+                    "A website design tool",
+                    "Software connecting advertisers and affiliates (like CJ or Rakuten)",
+                    "A hosting service",
+                    "A social media page"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/seo.png"
+                "explanation": "Networks simplify the business model by standardizing tracking and payouts for thousands of brands."
             },
             {
-                "text": "[Advanced II Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
+                "text": "What is \"Tracking Pixel\" in affiliate marketing?",
                 "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately",
-                    "Ignoring market research"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced II Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Number of employees in the company",
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Office location"
+                    "A way to edit videos",
+                    "A small piece of code on the merchant's confirmation page that confirms a sale occurred, crediting the affiliate",
+                    "A way to hide images",
+                    "A social media plugin"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "The pixel is the technical \"proof\" of sale that links the affiliate's efforts to the financial transaction."
             },
             {
-                "text": "[Advanced II Q4] What is a common pitfall to avoid in Affiliate Marketing?",
+                "text": "How do you find \"High-Paying Affiliate Programs\"?",
                 "options": [
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets"
+                    "By asking randomly",
+                    "Using search operators like \"product + affiliate program\" on Google or searching affiliate directories",
+                    "Buying emails",
+                    "Hacking websites"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "High-paying programs are often hidden. Targeted Google searches are the most effective way to find programs that pay commissions worth your time."
             },
             {
-                "text": "[Advanced II Q5] How does Affiliate Marketing impact the overall marketing funnel?",
+                "text": "What is \"Affiliate Content Strategy\"?",
                 "options": [
-                    "It prevents users from converting",
-                    "It drives users towards the final conversion goal.",
-                    "It only affects offline sales"
+                    "Randomly posting links",
+                    "A plan for creating honest reviews, comparisons, and \"best of\" lists that satisfy search intent and encourage clicking",
+                    "Posting social media updates",
+                    "Deleting old content"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Strategies like \"Top 10\" lists or \"Product A vs. Product B\" comparisons are the highest converting content types in affiliate marketing."
             },
             {
-                "text": "[Advanced II Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
+                "text": "What is the \"Cookie Life\" significance?",
                 "options": [
-                    "A physical calculator",
-                    "Google Analytics or similar data tracking software.",
-                    "Microsoft Word"
+                    "It\u2019s not important",
+                    "Longer cookie lives are better because they give users more time to decide and convert, increasing the chance of a payout",
+                    "It's for food",
+                    "It prevents sales"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "A 24-hour cookie is terrible for affiliates. A 30-day or 90-day cookie is much better, as buyers rarely purchase high-end items on the first click."
             },
             {
-                "text": "[Advanced II Q7] What role does A/B testing play in Affiliate Marketing?",
+                "text": "What is \"Affiliate Fraud\"?",
                 "options": [
-                    "It is completely irrelevant",
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It deletes campaign data"
+                    "Being a great affiliate",
+                    "Creating fake sales or traffic to steal commissions from merchants",
+                    "Asking for a refund",
+                    "Writing a review"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Affiliate programs are heavily monitored. Any attempt to manufacture fake traffic or sales will lead to permanent banning."
             },
             {
-                "text": "[Advanced II Q8] Why is mobile-optimization important for Affiliate Marketing?",
+                "text": "What is the role of \"Brand Bidding\" restrictions?",
                 "options": [
-                    "Mobile users do not buy products",
-                    "Desktop traffic is the only traffic that matters",
-                    "The majority of global web traffic comes from mobile devices."
+                    "They are useless",
+                    "Rules set by merchants that prevent affiliates from bidding on the brand's name in paid search ads, protecting the merchant's organic traffic",
+                    "They are for social media",
+                    "They hide links"
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "Merchants don't want affiliates driving up the cost of their own brand name in Google Ads."
             },
             {
-                "text": "[Advanced II Q9] In Affiliate Marketing, what does 'ROI' stand for?",
+                "text": "What is \"Performance-Based Marketing\"?",
                 "options": [
-                    "Return on Investment",
-                    "Revenue over Internet",
-                    "Rate of Interaction"
+                    "Paying for ads",
+                    "Paying only for measurable results (sales, leads, clicks) rather than paying for visibility",
+                    "Hiring employees",
+                    "Buying billboards"
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "This is the core logic of affiliate marketing: performance = payment."
             },
             {
-                "text": "[Advanced II Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
+                "text": "What is the advantage of \"Product Comparison Tables\"?",
                 "options": [
-                    "The Marketing Manager or CMO.",
-                    "The Chief Legal Officer",
-                    "The Janitor"
+                    "They look ugly",
+                    "They make it easy for users to compare features, price, and benefits, leading to higher clicks and conversions",
+                    "They hide info",
+                    "They slow the site"
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "Comparison tables reduce the cognitive load for the reader. They present the data they need to make a purchase decision instantly."
+            },
+            {
+                "text": "What is \"Affiliate Payout\" terminology?",
+                "options": [
+                    "The time to sign up",
+                    "The process by which the merchant pays the commission earned to the affiliate",
+                    "The number of website visits",
+                    "The price of the product"
+                ],
+                "correctIndex": 1,
+                "explanation": "Payouts can be monthly, net-30, or net-60 days. Understanding the payout schedule is vital for managing cash flow."
             }
         ]
     },
@@ -11275,106 +11327,114 @@ export const activitiesData = [
         "pointsReward": 800,
         "questions": [
             {
-                "text": "[Expert Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "Why use \"Unique Affiliate IDs\"?",
                 "options": [
-                    "Reduced visibility",
-                    "Higher operational costs",
-                    "Increased efficiency and better ROI."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
-                "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Ignoring market research",
-                    "Spending the entire budget immediately"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Number of employees in the company",
-                    "Office location",
-                    "Conversion rate and Customer Acquisition Cost (CAC)."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert Q4] What is a common pitfall to avoid in Affiliate Marketing?",
-                "options": [
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets",
-                    "Targeting a specific audience"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert Q5] How does Affiliate Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It only affects offline sales",
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting"
+                    "To block bots",
+                    "To uniquely identify which affiliate brought a specific sale",
+                    "To hide links",
+                    "To track page speed"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/brand.png"
+                "explanation": "Without the unique ID, the merchant\u2019s system has no way to credit the affiliate's bank account."
             },
             {
-                "text": "[Expert Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
+                "text": "What is \"Content-led Affiliate Marketing\"?",
                 "options": [
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator",
-                    "Microsoft Word"
+                    "Creating content after the sale",
+                    "Building an audience through helpful content, then recommending products that fit naturally into that content",
+                    "Buying clicks",
+                    "Hiding the site"
+                ],
+                "correctIndex": 1,
+                "explanation": "This is the most ethical and sustainable approach. The user gets a solution; the affiliate earns a commission; the merchant gets a sale."
+            },
+            {
+                "text": "What is the purpose of \"A/B Testing\" affiliate landing pages?",
+                "options": [
+                    "To delete the page",
+                    "To improve conversion rates by testing different headlines, layouts, or CTAs",
+                    "To change the domain",
+                    "To hack the site"
+                ],
+                "correctIndex": 1,
+                "explanation": "If you can increase the conversion rate of your landing page by just"
+            },
+            {
+                "text": "5%, your affiliate income can jump dramatically without getting a single new visitor.\n\n**Q64. What is \"Affiliate Management Software\"?",
+                "options": [
+                    "A tool to edit images",
+                    "Software (like Post Affiliate Pro) that allows merchants to run their own program in-house without paying a network fee",
+                    "An email client",
+                    "A social media tool"
+                ],
+                "correctIndex": 1,
+                "explanation": "Many businesses prefer to run their own program to avoid the fees charged by affiliate networks."
+            },
+            {
+                "text": "What is a \"Multi-Touch Attribution\"?",
+                "options": [
+                    "Counting the first click only",
+                    "Giving credit to all affiliates involved in the customer's journey, not just the last one",
+                    "Giving credit to the merchant only",
+                    "Deleting the data"
+                ],
+                "correctIndex": 1,
+                "explanation": "In high-ticket sales, the customer might interact with an influencer, then a blog, then a YouTube video before buying. Multi-touch attribution tracks this complexity."
+            },
+            {
+                "text": "What is \"Conversion Attribution\"?",
+                "options": [
+                    "Tracking where a sale came from",
+                    "The data process used to credit a specific affiliate for a specific conversion",
+                    "Changing product prices",
+                    "Deleting users"
+                ],
+                "correctIndex": 1,
+                "explanation": "This is what prevents arguments between affiliates and merchants regarding who \"owns\" a sale."
+            },
+            {
+                "text": "Why do affiliates avoid \"High Churn\" merchants?",
+                "options": [
+                    "Because they want to work less",
+                    "If a product has high churn, it means customers keep returning it or cancelling, which makes the product harder to promote and less profitable",
+                    "Because it is illegal",
+                    "Because it is free"
+                ],
+                "correctIndex": 1,
+                "explanation": "Successful affiliates want long-term programs. Products with high return rates are a nightmare for affiliate reputation."
+            },
+            {
+                "text": "What are \"Affiliate Banners\"?",
+                "options": [
+                    "Images to be placed on an affiliate's site",
+                    "Ads you buy on Facebook",
+                    "Physical posters",
+                    "Email subject lines"
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Merchants give these to affiliates so they can immediately begin promoting the brand without needing a graphic designer."
             },
             {
-                "text": "[Expert Q7] What role does A/B testing play in Affiliate Marketing?",
+                "text": "What is \"Conversion rate optimization\" (CRO)?",
                 "options": [
-                    "It deletes campaign data",
-                    "It is completely irrelevant",
-                    "It helps identify the highest converting variations of a campaign."
+                    "Deleting the website",
+                    "Improving the conversion rate of affiliate pages",
+                    "Making the site load slower",
+                    "Hiding links"
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "CRO is the focus on small tweaks (e.g., button color, headline clarity) that result in more sales per click."
             },
             {
-                "text": "[Expert Q8] Why is mobile-optimization important for Affiliate Marketing?",
+                "text": "What is \"PPC\" as it relates to affiliate marketing?",
                 "options": [
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Mobile users do not buy products",
-                    "Desktop traffic is the only traffic that matters"
+                    "Affiliates running their own Google Ads for affiliate products",
+                    "Merchants buying their own ads",
+                    "Social media posts",
+                    "Sending emails"
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/seo.png"
-            },
-            {
-                "text": "[Expert Q9] In Affiliate Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Revenue over Internet",
-                    "Rate of Interaction",
-                    "Return on Investment"
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
-                "options": [
-                    "The Chief Legal Officer",
-                    "The Janitor",
-                    "The Marketing Manager or CMO."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Some affiliates spend their own money on Google Ads to send traffic to the merchant's product, earning the difference in commission."
             }
         ]
     },
@@ -11387,107 +11447,114 @@ export const activitiesData = [
         "pointsReward": 850,
         "questions": [
             {
-                "text": "[Expert II Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "What is \"Link Cloaking\"?",
                 "options": [
-                    "Higher operational costs",
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility"
+                    "Hiding a link",
+                    "Making an affiliate link look cleaner or shorter (e.g., [site.com/go/product](https://site.com/go/product)) rather than a long string of ugly tracking codes",
+                    "Hacking a URL",
+                    "Deleting a link"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Cloaked links look more professional, are less likely to be blocked by spam filters, and are easier to manage if the tracking ID changes."
             },
             {
-                "text": "[Expert II Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
+                "text": "What are \"Bounty Affiliate Programs\"?",
                 "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately",
-                    "Ignoring market research"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert II Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Office location",
-                    "Number of employees in the company",
-                    "Conversion rate and Customer Acquisition Cost (CAC)."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
-            },
-            {
-                "text": "[Expert II Q4] What is a common pitfall to avoid in Affiliate Marketing?",
-                "options": [
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets",
-                    "Targeting a specific audience"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert II Q5] How does Affiliate Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It only affects offline sales",
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting"
+                    "A treasure hunt",
+                    "Paying a flat fee for a specific action (like a software sign-up or a credit card application) regardless of the sale price",
+                    "Paying based on commission percentage",
+                    "Selling items in bulk"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
+                "explanation": "This is common in finance. You get $100 for every credit card application you drive, regardless of how much the user spends."
             },
             {
-                "text": "[Expert II Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
+                "text": "What is \"Recurring Affiliate Marketing\"?",
                 "options": [
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator"
+                    "Paying once",
+                    "The affiliate earns a commission on the customer's purchase *repeatedly* (e.g., every month the customer stays subscribed to a service)",
+                    "Paying every year",
+                    "Selling items only once"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "This is the holy grail. One referral leads to commissions for months or years, creating passive, compounding income."
             },
             {
-                "text": "[Expert II Q7] What role does A/B testing play in Affiliate Marketing?",
+                "text": "What is the role of \"SEO\" for affiliate websites?",
                 "options": [
-                    "It deletes campaign data",
-                    "It is completely irrelevant",
-                    "It helps identify the highest converting variations of a campaign."
+                    "To block search engines",
+                    "To drive free, intent-based traffic that clicks affiliate links",
+                    "To delete the website",
+                    "To pay for traffic"
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "If you aren't paying for traffic, search engines are your main source of income. You *must* master SEO."
             },
             {
-                "text": "[Expert II Q8] Why is mobile-optimization important for Affiliate Marketing?",
+                "text": "What is a \"Search Operator\" for finding affiliate programs?",
                 "options": [
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices."
+                    "A tool to delete programs",
+                    "Google search terms like \"keyword + affiliate program\" to find merchants that pay commissions",
+                    "A legal document",
+                    "A website hosting plan"
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
+                "correctIndex": 1,
+                "explanation": "This is the most efficient way to find programs that match your niche."
             },
             {
-                "text": "[Expert II Q9] In Affiliate Marketing, what does 'ROI' stand for?",
+                "text": "Why is \"Transparency\" critical?",
                 "options": [
-                    "Return on Investment",
-                    "Revenue over Internet",
-                    "Rate of Interaction"
+                    "To charge more",
+                    "If the user doesn't trust the affiliate's recommendation, they won't click the link",
+                    "It's not important",
+                    "It hides the price"
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "Trust is the only currency in affiliate marketing. If users feel tricked, they will never return to your site."
             },
             {
-                "text": "[Expert II Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
+                "text": "What is \"Tracking & Measuring\"?",
                 "options": [
-                    "The Marketing Manager or CMO.",
-                    "The Chief Legal Officer",
-                    "The Janitor"
+                    "Keeping the site hidden",
+                    "Analyzing data to see which links, pages, and products are profitable",
+                    "Deleting the data",
+                    "Creating new products"
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "Data is the compass. If you don't know what is converting, you are flying blind and wasting effort."
+            },
+            {
+                "text": "What are \"Affiliate Coupons\"?",
+                "options": [
+                    "Physical mailers",
+                    "Discount codes tracked to a specific affiliate",
+                    "A website layout",
+                    "A social media post"
+                ],
+                "correctIndex": 1,
+                "explanation": "Coupons allow tracking *offline* or in contexts where a tracking link isn't possible, ensuring the affiliate gets paid for their referral."
+            },
+            {
+                "text": "What is the advantage of \"Affiliate Aggregators\"?",
+                "options": [
+                    "They hide the product",
+                    "Accessing thousands of programs from one dashboard",
+                    "They sell web hosting",
+                    "They write blogs"
+                ],
+                "correctIndex": 1,
+                "explanation": "Aggregators streamline the admin work, so affiliates can focus on creating content rather than hunting for programs."
+            },
+            {
+                "text": "What is \"PPL\" (Pay-Per-Lead)?",
+                "options": [
+                    "Paying for a sale",
+                    "Paying the affiliate for every successful lead generation (e.g., signup, form fill)",
+                    "Paying for impressions",
+                    "Paying for clicks"
+                ],
+                "correctIndex": 1,
+                "explanation": "PPL is common in high-stakes industries like insurance where a lead needs to be qualified before a sale happens."
             }
         ]
     },
@@ -11500,107 +11567,114 @@ export const activitiesData = [
         "pointsReward": 900,
         "questions": [
             {
-                "text": "[Master Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "What is \"Bounty\" in affiliate marketing?",
                 "options": [
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility",
-                    "Higher operational costs"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Master Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
-                "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately",
-                    "Ignoring market research"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Master Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Office location",
-                    "Number of employees in the company"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Master Q4] What is a common pitfall to avoid in Affiliate Marketing?",
-                "options": [
-                    "Failing to track data and measure performance.",
-                    "Targeting a specific audience",
-                    "Using high-quality assets"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Master Q5] How does Affiliate Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It prevents users from converting",
-                    "It drives users towards the final conversion goal.",
-                    "It only affects offline sales"
+                    "A chocolate bar",
+                    "A flat fee for a single action",
+                    "A percent of a sale",
+                    "A way to delete data"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
+                "explanation": "Bounties are great for predictable budgeting. You know exactly what each lead or sale is worth."
             },
             {
-                "text": "[Master Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
+                "text": "What does the term \"Conversion Rate\" indicate?",
                 "options": [
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator"
+                    "Website loading speed",
+                    "The percentage of visitors who purchase or take action",
+                    "The website color",
+                    "The site title"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "If 100 people visit your review and 1 buys, you have a 1% conversion rate. You want this number as high as possible."
             },
             {
-                "text": "[Master Q7] What role does A/B testing play in Affiliate Marketing?",
+                "text": "What is the value of \"Affiliate Networks\" for merchants?",
                 "options": [
-                    "It deletes campaign data",
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It is completely irrelevant"
+                    "They require no money",
+                    "They manage payments and tracking for thousands of affiliates, saving the merchant from doing it manually",
+                    "They host the website",
+                    "They hide the product"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Managing 500 affiliates by hand is impossible. Networks centralize the management."
             },
             {
-                "text": "[Master Q8] Why is mobile-optimization important for Affiliate Marketing?",
+                "text": "Why avoid \"Brand Bidding\" by affiliates?",
                 "options": [
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
-            },
-            {
-                "text": "[Master Q9] In Affiliate Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Revenue over Internet",
-                    "Return on Investment",
-                    "Rate of Interaction"
+                    "It makes the site faster",
+                    "It drives up CPC costs for the merchant and violates program terms, often leading to account termination",
+                    "It is legal everywhere",
+                    "It ranks the site higher"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Brand bidding is unethical. You are piggybacking on the merchant's brand equity while increasing their costs."
             },
             {
-                "text": "[Master Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
+                "text": "What is the value of \"Negative Keywords\" for affiliate PPC?",
                 "options": [
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO.",
-                    "The Janitor"
+                    "They increase cost",
+                    "They prevent wasting money on irrelevant searches (e.g., \"-free,\" \"-broken,\" \"-scam\")",
+                    "They hide the ad",
+                    "They delete the website"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/social.png"
+                "explanation": "Don't pay for traffic that isn't interested in buying. Filter them out immediately."
+            },
+            {
+                "text": "What are \"Review Sites\"?",
+                "options": [
+                    "Sites that only post images",
+                    "Affiliate sites that publish expert reviews of products to help users decide what to buy",
+                    "Social media networks",
+                    "Email lists"
+                ],
+                "correctIndex": 1,
+                "explanation": "Review sites are highly profitable because the traffic is looking for a specific product and just needs the \"final nudge\" to buy."
+            },
+            {
+                "text": "What is \"Content-led Affiliate\"?",
+                "options": [
+                    "Writing junk",
+                    "Building an audience via high-value articles, then naturally integrating affiliate links",
+                    "Buying ads",
+                    "Deleting sites"
+                ],
+                "correctIndex": 1,
+                "explanation": "Trust is the goal. If the content is great, the affiliate link will be clicked as a helpful suggestion."
+            },
+            {
+                "text": "What is the role of \"Landing Page Optimization\"?",
+                "options": [
+                    "Making the site look cool",
+                    "Tweaking the page to maximize sales, often by improving clarity, trust, and call-to-action impact",
+                    "Blocking users",
+                    "Hiding the link"
+                ],
+                "correctIndex": 1,
+                "explanation": "The page *is* the salesperson. If it isn't converting, the affiliate isn't getting paid."
+            },
+            {
+                "text": "What is \"Affiliate fraud\"?",
+                "options": [
+                    "Being successful",
+                    "Using fake traffic, fake sales, or stolen credit cards to generate commissions",
+                    "Asking for a refund",
+                    "Writing a review"
+                ],
+                "correctIndex": 1,
+                "explanation": "Fraud ruins the ecosystem. Networks have rigorous security to detect this."
+            },
+            {
+                "text": "What is \"Multi-Tier\" affiliate commission?",
+                "options": [
+                    "Paying for two products",
+                    "Earning commissions from a hierarchy of referred affiliates",
+                    "Paying twice the commission",
+                    "Deleting data"
+                ],
+                "correctIndex": 1,
+                "explanation": "It's an incentive structure to recruit the best talent (the best affiliates) and keep them on your team."
             }
         ]
     },
@@ -11613,106 +11687,114 @@ export const activitiesData = [
         "pointsReward": 950,
         "questions": [
             {
-                "text": "[Grandmaster Q1] What is the primary benefit of optimizing Affiliate Marketing?",
+                "text": "What is the \"Last-Click\" Attribution model?",
                 "options": [
-                    "Reduced visibility",
-                    "Increased efficiency and better ROI.",
-                    "Higher operational costs"
+                    "Only the first person gets paid",
+                    "The affiliate who drove the final click before the purchase gets the commission",
+                    "The affiliate who drove the first click gets the commission",
+                    "Everyone splits the commission"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "It's the standard. The last person who convinced the customer to click is viewed as the \"closer.\""
             },
             {
-                "text": "[Grandmaster Q2] When implementing a strategy for Affiliate Marketing, what is the first step?",
+                "text": "Why do merchants require \"W-9 Forms\"?",
                 "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Ignoring market research",
-                    "Spending the entire budget immediately"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Grandmaster Q3] Which metric is most crucial when measuring the success of Affiliate Marketing?",
-                "options": [
-                    "Number of employees in the company",
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Office location"
+                    "For fun",
+                    "Legal tax compliance; they need it to report the commission income paid to affiliates to the government",
+                    "To hide info",
+                    "To check bank accounts"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "Affiliate payments are business income. The merchant must document who they paid."
             },
             {
-                "text": "[Grandmaster Q4] What is a common pitfall to avoid in Affiliate Marketing?",
+                "text": "What is \"Affiliate Link Cloaking\"?",
                 "options": [
-                    "Targeting a specific audience",
-                    "Using high-quality assets",
-                    "Failing to track data and measure performance."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Grandmaster Q5] How does Affiliate Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting",
-                    "It only affects offline sales"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Grandmaster Q6] Which tool is commonly associated with analyzing Affiliate Marketing?",
-                "options": [
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator"
+                    "Making it look better",
+                    "Turning long, ugly affiliate links into clean URLs (like [site.com/go/product](https://site.com/go/product))",
+                    "Hiding the link",
+                    "Deleting the URL"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
+                "explanation": "Cloaked links are easier to remember, trackable, and look professional, unlike the raw long URL codes."
             },
             {
-                "text": "[Grandmaster Q7] What role does A/B testing play in Affiliate Marketing?",
+                "text": "Why is \"Target Audience\" selection important?",
                 "options": [
-                    "It deletes campaign data",
-                    "It is completely irrelevant",
-                    "It helps identify the highest converting variations of a campaign."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Grandmaster Q8] Why is mobile-optimization important for Affiliate Marketing?",
-                "options": [
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters"
+                    "It isn't",
+                    "You cannot convert everyone. You need an audience that specifically needs the product you are promoting.",
+                    "It forces traffic to stay",
+                    "It hides the website"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
+                "explanation": "Promoting a high-end camera to a group of teenagers who have no money is a waste of effort. Match the product to the demographic."
             },
             {
-                "text": "[Grandmaster Q9] In Affiliate Marketing, what does 'ROI' stand for?",
+                "text": "What is the \"Conversion Rate\"?",
                 "options": [
-                    "Revenue over Internet",
-                    "Return on Investment",
-                    "Rate of Interaction"
+                    "Sales divided by Clicks",
+                    "The number of people who buy after clicking your affiliate link",
+                    "The number of clicks only",
+                    "The total number of website visitors"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "This is the most critical metric for assessing the health of your affiliate strategy."
             },
             {
-                "text": "[Grandmaster Q10] Which stakeholder usually oversees the performance of Affiliate Marketing?",
+                "text": "What is \"Content Refreshing\"?",
                 "options": [
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO.",
-                    "The Janitor"
+                    "Deleting the post",
+                    "Updating an old review article to keep it relevant and ranking high on search engines",
+                    "Changing the font",
+                    "Deleting the site"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Affiliate Marketing is key to mastering this concept."
+                "explanation": "SEO changes. A review from 3 years ago might rank #1 today, but it needs updated pricing and links to stay there."
+            },
+            {
+                "text": "What does \"Transparency\" build?",
+                "options": [
+                    "Cost",
+                    "Trust",
+                    "Traffic",
+                    "Spam"
+                ],
+                "correctIndex": 1,
+                "explanation": "If readers don't trust you, they don't buy from your affiliate links. Be honest about being an affiliate."
+            },
+            {
+                "text": "What is \"Tracking Pixel\"?",
+                "options": [
+                    "A way to hide data",
+                    "The tech that records the sale and links it to the affiliate ID",
+                    "A graphic designer",
+                    "A social media tool"
+                ],
+                "correctIndex": 1,
+                "explanation": "No pixel = no money. The pixel is the technical receipt of the sale."
+            },
+            {
+                "text": "What are \"Bounties\"?",
+                "options": [
+                    "Sales rewards",
+                    "Flat, upfront commission for a specific lead or sign-up action",
+                    "Hiding info",
+                    "Blocking traffic"
+                ],
+                "correctIndex": 1,
+                "explanation": "Bounties are great for predictable cash flow. You know exactly what the payout is, regardless of the customer's total order size."
+            },
+            {
+                "text": "Why focus on \"High-Converting Merchants\"?",
+                "options": [
+                    "Because they pay less",
+                    "Because it increases your commission potential without needing extra traffic",
+                    "Because they hide their links",
+                    "Because they require no work"
+                ],
+                "correctIndex": 1,
+                "explanation": "If you send 100 visitors to Merchant A and get 0 sales, but send 100 to Merchant B and get 5 sales, you should focus entirely on Merchant B."
             }
         ]
     },
@@ -11888,107 +11970,114 @@ export const activitiesData = [
         "pointsReward": 500,
         "questions": [
             {
-                "text": "[Beginner Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "What is the fundamental definition of Influencer Marketing?",
                 "options": [
-                    "Higher operational costs",
-                    "Reduced visibility",
-                    "Increased efficiency and better ROI."
+                    "Purchasing automated bot accounts to increase brand followers",
+                    "Running targeted search engine ads using celebrity names",
+                    "Partnering with creators who have a loyal audience to promote a brand's products authentically",
+                    "Sending mass promotional emails to unsegmented contact lists"
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
+                "explanation": "Influencer marketing relies on leveraging a creator's pre-established audience and credibility to drive brand awareness and sales naturally."
             },
             {
-                "text": "[Beginner Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
+                "text": "Why is \"trust\" considered the most vital component of influencer marketing?",
                 "options": [
-                    "Spending the entire budget immediately",
-                    "Ignoring market research",
-                    "Defining clear objectives and KPIs."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Beginner Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
-                "options": [
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Number of employees in the company",
-                    "Office location"
+                    "Audiences view influencers as peers, making their recommendations feel like genuine advice rather than corporate advertisements.",
+                    "Influencers are legally required to only promote products they have manufactured themselves.",
+                    "Social media platforms automatically verify all claims made by influencers.",
+                    "Brands force influencers to sign legal documents guaranteeing product performance."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "The power of an influencer lies in parasocial relationships; followers trust their opinions the same way they would trust a friend's recommendation."
             },
             {
-                "text": "[Beginner Q4] What is a common pitfall to avoid in Influencer Marketing?",
+                "text": "What characterizes a \"Macro-Influencer\"?",
                 "options": [
-                    "Failing to track data and measure performance.",
-                    "Targeting a specific audience",
-                    "Using high-quality assets"
+                    "An influencer with fewer than 1,000 followers",
+                    "A local business owner with no digital presence",
+                    "An automated virtual avatar used for customer service",
+                    "An influencer with a large following (typically 100k to 1M+), ideal for mass-market brand awareness campaigns"
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/seo.png"
+                "correctIndex": 3,
+                "explanation": "Macro-influencers offer massive reach, making them highly effective for launching products that need to be seen by millions of people quickly."
             },
             {
-                "text": "[Beginner Q5] How does Influencer Marketing impact the overall marketing funnel?",
+                "text": "What is a \"Micro-Influencer\"?",
                 "options": [
-                    "It only affects offline sales",
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting"
+                    "A creator who only posts text-based content",
+                    "An influencer with a smaller following (e.g., 10k-50k) who typically boasts higher engagement rates and deep niche credibility",
+                    "A traditional Hollywood actor appearing in television commercials",
+                    "A brand's internal social media manager"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Micro-influencers have highly dedicated, niche audiences. They are often more cost-effective and generate higher conversion rates than massive celebrities."
             },
             {
-                "text": "[Beginner Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
+                "text": "What defines a \"Nano-Influencer\"?",
                 "options": [
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator",
-                    "Microsoft Word"
+                    "A creator with 1,000 to 10,000 followers who has strong community ties and hyper-local influence",
+                    "A search engine algorithm update",
+                    "An influencer who charges over $100,000 per post",
+                    "A user who has never posted on social media"
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Nano-influencers have tiny but incredibly tight-knit communities. Their recommendations are viewed as highly authentic, like word-of-mouth marketing."
             },
             {
-                "text": "[Beginner Q7] What role does A/B testing play in Influencer Marketing?",
+                "text": "What is a \"Mega-Influencer\" (or Celebrity Influencer)?",
                 "options": [
-                    "It deletes campaign data",
-                    "It is completely irrelevant",
-                    "It helps identify the highest converting variations of a campaign."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Beginner Q8] Why is mobile-optimization important for Influencer Marketing?",
-                "options": [
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
-            },
-            {
-                "text": "[Beginner Q9] In Influencer Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Revenue over Internet",
-                    "Return on Investment",
-                    "Rate of Interaction"
+                    "An influencer who focuses strictly on B2B software",
+                    "A creator or celebrity with over 1 million followers, providing massive reach but often lower engagement percentages",
+                    "A user who only interacts in private messaging groups",
+                    "An employee who advocates for their own company"
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Mega-influencers provide the ultimate scale for awareness, but because their audience is so broad, their specific niche influence is often diluted."
             },
             {
-                "text": "[Beginner Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
+                "text": "Who can officially be considered an \"Influencer\" in today's digital landscape?",
                 "options": [
-                    "The Chief Legal Officer",
-                    "The Janitor",
-                    "The Marketing Manager or CMO."
+                    "Only individuals verified with a blue checkmark",
+                    "Only users who have surpassed one million subscribers",
+                    "Anyone who has the power to affect the purchasing decisions of others due to their authority, knowledge, or relationship with their audience",
+                    "Only professional athletes and actors"
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Influence is not strictly about follower count; a local doctor with 500 followers is an influencer if their audience trusts their medical product recommendations."
+            },
+            {
+                "text": "Why are these creators referred to as \"Influencers\"?",
+                "options": [
+                    "Because they dictate the pricing of digital ad space",
+                    "Because they own the social media platforms they post on",
+                    "Because they invent new consumer products",
+                    "Because they have established a level of credibility that allows them to shape consumer behavior and trends"
+                ],
+                "correctIndex": 3,
+                "explanation": "The title stems from their literal ability to \"influence\" the thoughts, habits, and buying patterns of their dedicated followers."
+            },
+            {
+                "text": "How does Influencer Marketing differ fundamentally from traditional Celebrity Endorsements?",
+                "options": [
+                    "Influencers build their own platforms and engage directly in two-way communication with fans, whereas traditional celebrities rely on one-way mass media.",
+                    "Celebrity endorsements are always significantly cheaper.",
+                    "Influencers only promote products on television.",
+                    "Traditional celebrities manage their own social media ad targeting."
+                ],
+                "correctIndex": 0,
+                "explanation": "Influencers are content creators who actively talk to their audience daily in the comments, building a deeper, more relatable connection than traditional celebrities."
+            },
+            {
+                "text": "What is the role of the \"Audience Relationship\" in influencer marketing?",
+                "options": [
+                    "It prevents brands from seeing conversion data.",
+                    "It is the primary asset the brand is renting; the brand pays to access the high-trust relationship the influencer has spent years building.",
+                    "It limits the amount of money an influencer can earn.",
+                    "It forces the influencer to only post promotional content."
+                ],
+                "correctIndex": 1,
+                "explanation": "Brands don't just buy reach; they buy trust. The existing relationship between the creator and the fan is what makes the ad successful."
             }
         ]
     },
@@ -12001,104 +12090,114 @@ export const activitiesData = [
         "pointsReward": 550,
         "questions": [
             {
-                "text": "[Novice Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "Why is \"Niche Expertise\" critical for a successful influencer?",
                 "options": [
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility",
-                    "Higher operational costs"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
-                "options": [
-                    "Ignoring market research",
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
-                "options": [
-                    "Office location",
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Number of employees in the company"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q4] What is a common pitfall to avoid in Influencer Marketing?",
-                "options": [
-                    "Using high-quality assets",
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance."
+                    "It allows them to bypass social media algorithms.",
+                    "It automatically generates high-quality video edits.",
+                    "It ensures their audience is highly targeted, meaning a brand's product will be relevant to almost everyone seeing the post.",
+                    "It hides the influencer's profile from competitors."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "A beauty influencer reviewing makeup will have a massive conversion rate because 100% of their audience cares about beauty products."
             },
             {
-                "text": "[Novice Q5] How does Influencer Marketing impact the overall marketing funnel?",
+                "text": "How do B2B (Business-to-Business) companies utilize influencers?",
                 "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting",
-                    "It only affects offline sales"
+                    "By hiring teenage TikTok dancers to promote software",
+                    "By avoiding social media entirely",
+                    "By relying strictly on printed magazines",
+                    "By partnering with industry thought leaders, executives, and subject matter experts on platforms like LinkedIn"
+                ],
+                "correctIndex": 3,
+                "explanation": "B2B influencers are usually industry professionals. A software company might partner with a well-known HR executive to promote their new HR tool."
+            },
+            {
+                "text": "Why are content creation skills essential for modern influencers?",
+                "options": [
+                    "Brands rely on influencers not just for distribution, but to act as a complete production studio that creates high-quality, native creative assets.",
+                    "It allows them to write computer code for the brand's website.",
+                    "Without these skills, they are legally barred from social media.",
+                    "It prevents them from having to use hashtags."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Influencers are a one-stop-shop. They handle the photography, video editing, lighting, and copywriting, saving the brand immense production costs."
             },
             {
-                "text": "[Novice Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
+                "text": "How does \"Platform Dependency\" affect influencers?",
                 "options": [
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator",
-                    "Microsoft Word"
+                    "It guarantees they will make a fixed salary forever.",
+                    "Their business is entirely reliant on the algorithms of third-party networks (like Instagram or TikTok), making them vulnerable to sudden reach drops.",
+                    "It automatically connects them to new brand deals.",
+                    "It prevents them from working with multiple brands."
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "If TikTok changes its algorithm or gets banned, an influencer whose sole audience is on TikTok could lose their entire business overnight."
             },
             {
-                "text": "[Novice Q7] What role does A/B testing play in Influencer Marketing?",
+                "text": "How does an influencer post provide \"Social Proof\"?",
                 "options": [
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It deletes campaign data",
-                    "It is completely irrelevant"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q8] Why is mobile-optimization important for Influencer Marketing?",
-                "options": [
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q9] In Influencer Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Return on Investment",
-                    "Rate of Interaction",
-                    "Revenue over Internet"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Novice Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
-                "options": [
-                    "The Janitor",
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO."
+                    "By proving the user's internet connection is secure.",
+                    "By legally verifying the brand's corporate registration.",
+                    "By showing real, relatable people actively using and enjoying the product, signaling to others that the product is safe and valuable to buy.",
+                    "By generating automated bot comments."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Social proof relies on the concept that people follow the actions of others. Seeing someone they admire use a product validates the purchase."
+            },
+            {
+                "text": "What is a \"Parasocial Relationship\"?",
+                "options": [
+                    "A legal partnership between two competing brands.",
+                    "An algorithm that sorts social media feeds.",
+                    "A metric used to track affiliate sales.",
+                    "A one-sided psychological bond where a follower feels a deep, personal friendship with a creator who does not actually know them."
+                ],
+                "correctIndex": 3,
+                "explanation": "This psychological phenomenon is why influencer marketing works so well. The follower feels they are taking advice from a close personal friend."
+            },
+            {
+                "text": "What does the \"Democratization of Influence\" refer to?",
+                "options": [
+                    "The fact that anyone with a smartphone and a unique voice can now build a massive audience, bypassing traditional media gatekeepers.",
+                    "A voting system built into social media apps.",
+                    "The requirement that influencers must report their earnings to the government.",
+                    "Brands abandoning influencer marketing for traditional PR."
+                ],
+                "correctIndex": 0,
+                "explanation": "In the past, only TV networks decided who was famous. Today, social media algorithms allow ordinary people to become global influencers."
+            },
+            {
+                "text": "How does the \"Algorithm vs. Influence\" dynamic work on TikTok compared to Instagram?",
+                "options": [
+                    "Instagram requires no followers to go viral.",
+                    "TikTok's algorithm serves content based heavily on interest rather than followers, meaning a creator can drive massive sales even with a tiny audience.",
+                    "TikTok only shows content to people who live in your city.",
+                    "Instagram strictly bans promotional content."
+                ],
+                "correctIndex": 1,
+                "explanation": "TikTok democratizes reach. A great video by a micro-influencer can reach 5 million people because the algorithm pushes engaging content, not just famous accounts."
+            },
+            {
+                "text": "Why is \"Authenticity\" the most commonly cited requirement for influencer success?",
+                "options": [
+                    "It allows them to charge higher taxes.",
+                    "It is required to bypass spam filters.",
+                    "Audiences are highly sensitive to \"fake\" corporate ads; if a creator promotes something they clearly don't use, they will lose their audience's trust.",
+                    "It speeds up the video rendering process."
+                ],
+                "correctIndex": 2,
+                "explanation": "The influencer's only true currency is audience trust. If they lose authenticity, they lose their influence, making them useless to brands."
+            },
+            {
+                "text": "Why do brands often use influencers as \"Early Adopters\"?",
+                "options": [
+                    "Because influencers are cheaper than traditional shipping.",
+                    "Because influencers can fix broken products.",
+                    "To hide new products from competitors.",
+                    "To validate a new product in the market and create a trend before rolling it out to the mainstream public."
+                ],
+                "correctIndex": 3,
+                "explanation": "Influencers dictate what is \"cool.\" Having them use a new product first creates aspirational demand before a massive retail launch."
             }
         ]
     },
@@ -12111,106 +12210,114 @@ export const activitiesData = [
         "pointsReward": 600,
         "questions": [
             {
-                "text": "[Intermediate Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "What constitutes a \"Paid Partnership\" in influencer marketing?",
                 "options": [
-                    "Higher operational costs",
-                    "Reduced visibility",
-                    "Increased efficiency and better ROI."
+                    "The influencer pays the brand for products.",
+                    "The influencer only receives a percentage of sales.",
+                    "The brand compensates the influencer with a flat financial fee in exchange for guaranteed deliverables (e.g., one video, two stories).",
+                    "The brand and influencer share office space."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/social.png"
+                "explanation": "A paid partnership is a traditional sponsorship contract where the influencer's rate is negotiated upfront regardless of how many sales are generated."
             },
             {
-                "text": "[Intermediate Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
+                "text": "What is the strategy behind \"Gifted Products\" (Product Seeding)?",
                 "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Ignoring market research",
-                    "Spending the entire budget immediately"
+                    "Sending high-quality free products to creators with no strict contractual obligation, hoping they love it and post about it organically.",
+                    "Forcing influencers to return products after a week.",
+                    "Selling broken inventory to influencers at a discount.",
+                    "Sending products exclusively to employees."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Product seeding is a cost-effective strategy to build relationships. If the product is excellent, creators will often share it for free with their audience."
             },
             {
-                "text": "[Intermediate Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
+                "text": "Why do brands run \"Contests and Giveaways\" with influencers?",
                 "options": [
-                    "Number of employees in the company",
-                    "Office location",
-                    "Conversion rate and Customer Acquisition Cost (CAC)."
+                    "To decrease the influencer's follower count.",
+                    "To avoid paying taxes on inventory.",
+                    "To hide poor product reviews.",
+                    "To drive rapid, massive follower growth for the brand's own account by requiring the influencer's audience to \"Follow the brand\" to enter."
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 3,
+                "explanation": "Giveaways are an aggressive growth hack. By making \"following the brand page\" a condition of entry, brands can siphon thousands of followers quickly."
             },
             {
-                "text": "[Intermediate Q4] What is a common pitfall to avoid in Influencer Marketing?",
+                "text": "What defines an \"Ambassador Program\"?",
                 "options": [
-                    "Targeting a specific audience",
-                    "Using high-quality assets",
-                    "Failing to track data and measure performance."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate Q5] How does Influencer Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It prevents users from converting",
-                    "It drives users towards the final conversion goal.",
-                    "It only affects offline sales"
+                    "A one-off Instagram post.",
+                    "A long-term, formalized relationship where an influencer regularly promotes the brand over many months, functioning almost like a brand spokesperson.",
+                    "An influencer taking over the CEO's job.",
+                    "Sending emails to government officials."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Ambassadors build deep trust. When an audience sees a creator use a product consistently for a year, the endorsement is much more powerful than a single ad."
             },
             {
-                "text": "[Intermediate Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
+                "text": "How does \"Affiliate Influencer Marketing\" differ from standard paid posts?",
                 "options": [
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate Q7] What role does A/B testing play in Influencer Marketing?",
-                "options": [
-                    "It deletes campaign data",
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It is completely irrelevant"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate Q8] Why is mobile-optimization important for Influencer Marketing?",
-                "options": [
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate Q9] In Influencer Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Return on Investment",
-                    "Rate of Interaction",
-                    "Revenue over Internet"
+                    "The influencer earns a commission strictly based on the actual sales or leads they generate via a unique link or promo code.",
+                    "The influencer pays the brand to promote them.",
+                    "The brand takes over the influencer's account.",
+                    "The influencer creates a brand new website from scratch."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
+                "explanation": "This performance-based model shifts the risk away from the brand. The influencer is highly motivated to \"sell\" because their payout depends on it."
             },
             {
-                "text": "[Intermediate Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
+                "text": "What is an \"Account Takeover\"?",
                 "options": [
-                    "The Chief Legal Officer",
-                    "The Janitor",
-                    "The Marketing Manager or CMO."
+                    "A hacker stealing the brand's password.",
+                    "An influencer temporarily running the brand\u2019s official social media account (e.g., posting on the brand's Instagram Stories for 24 hours) to drive their followers there.",
+                    "A brand deleting the influencer's account.",
+                    "An automated bot posting content."
+                ],
+                "correctIndex": 1,
+                "explanation": "Takeovers bring fresh, authentic energy to corporate accounts and give the influencer's audience a direct reason to visit the brand's profile."
+            },
+            {
+                "text": "What is a \"Sponsored Blog Post\"?",
+                "options": [
+                    "A post on social media only.",
+                    "An ad placed in a print newspaper.",
+                    "A brand paying a blogger to write a dedicated, in-depth article or review about their product, which also provides long-term SEO benefits.",
+                    "A short video on TikTok."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Sponsored blogs live forever on search engines. While an Instagram Story dies in 24 hours, a blog post can drive traffic for years."
+            },
+            {
+                "text": "Why are \"Unboxing Videos\" highly popular in influencer campaigns?",
+                "options": [
+                    "They require expensive cinematic lighting.",
+                    "They hide the actual product from the viewer.",
+                    "They prevent users from leaving comments.",
+                    "They capture the raw, authentic first impression of receiving the product, highlighting the packaging and initial user experience."
+                ],
+                "correctIndex": 3,
+                "explanation": "Unboxing taps into user curiosity. It replicates the excitement of receiving a gift and acts as a detailed visual review of the product's quality."
+            },
+            {
+                "text": "What is the main advantage of \"Long-Term\" influencer relationships over short-term ones?",
+                "options": [
+                    "They cost significantly more money per post.",
+                    "They confuse the audience.",
+                    "They build repetitive exposure; audiences require multiple touchpoints before buying, making consistent promotion far more effective.",
+                    "They force the influencer to stop making content."
+                ],
+                "correctIndex": 2,
+                "explanation": "Marketing requires the \"Rule of 7\" (seeing a message multiple times). A long-term partner provides this necessary repeated exposure."
+            },
+            {
+                "text": "What is \"Whitelisting\" (or Dark Posting) in influencer marketing?",
+                "options": [
+                    "The brand gaining backend access to run paid ads through the influencer's handle, targeting audiences outside the influencer's organic reach.",
+                    "Changing the background color of a video.",
+                    "Banning certain influencers from the campaign.",
+                    "Posting content only during the daytime."
+                ],
+                "correctIndex": 0,
+                "explanation": "Whitelisting allows brands to put ad budget behind a high-performing influencer post, scaling its reach far beyond just the people who follow the creator."
             }
         ]
     },
@@ -12223,105 +12330,114 @@ export const activitiesData = [
         "pointsReward": 650,
         "questions": [
             {
-                "text": "[Intermediate II Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "How is \"Event Coverage\" used as an influencer strategy?",
                 "options": [
-                    "Reduced visibility",
-                    "Increased efficiency and better ROI.",
-                    "Higher operational costs"
+                    "Buying tickets to an online webinar.",
+                    "Deleting event photos.",
+                    "Sending automated emails about an event.",
+                    "Inviting creators to an exclusive brand event so they document the experience live, creating massive hype and FOMO among their followers."
                 ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 3,
+                "explanation": "PR events designed for influencers result in dozens of creators posting about the brand simultaneously, creating a viral \"moment\" on social media."
             },
             {
-                "text": "[Intermediate II Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
+                "text": "What is the primary purpose of assigning \"Promo Codes\" to influencers?",
                 "options": [
-                    "Ignoring market research",
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately"
+                    "To change the product's name.",
+                    "To accurately track exactly how many conversions that specific influencer drove, even if the user didn't click a direct link.",
+                    "To prevent the influencer from making money.",
+                    "To block out international buyers."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
+                "explanation": "Promo codes (e.g., \"JANE20\") allow brands to calculate the exact ROI of the partnership because every use of the code is tied to that specific creator."
             },
             {
-                "text": "[Intermediate II Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
+                "text": "What does \"Product Collaboration\" (Co-creation) entail?",
                 "options": [
-                    "Number of employees in the company",
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Office location"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate II Q4] What is a common pitfall to avoid in Influencer Marketing?",
-                "options": [
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Intermediate II Q5] How does Influencer Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It only affects offline sales",
-                    "It prevents users from converting"
+                    "The influencer helps design or curate a custom product/collection with the brand, deeply investing both their name and audience in its success.",
+                    "The influencer writes the brand's legal documents.",
+                    "The brand steals the influencer's ideas.",
+                    "The influencer sells their own products exclusively."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Co-creation (like a makeup palette by a famous beauty vlogger) guarantees high sales because the audience feels they are directly supporting the creator."
             },
             {
-                "text": "[Intermediate II Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
+                "text": "What is a \"Shoutout\" in influencer terminology?",
                 "options": [
-                    "Microsoft Word",
-                    "A physical calculator",
-                    "Google Analytics or similar data tracking software."
+                    "Yelling loudly in a video.",
+                    "A quick, often low-cost mention of a brand or another page in a post or story, usually aimed purely at driving top-of-funnel awareness.",
+                    "A legal warning.",
+                    "A form of negative PR."
+                ],
+                "correctIndex": 1,
+                "explanation": "Shoutouts are usually brief and less integrated than full sponsored videos, serving as a quick way to get eyes on a brand handle."
+            },
+            {
+                "text": "Why is \"Review / Tutorial Content\" highly effective for conversion?",
+                "options": [
+                    "It provides zero information.",
+                    "It is the shortest type of content available.",
+                    "It educates the consumer, removes purchasing friction, and actively demonstrates the product solving a problem.",
+                    "It relies entirely on comedy."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "A tutorial proves the product works. If an influencer shows exactly how to use a new software tool, the audience feels confident enough to buy it."
             },
             {
-                "text": "[Intermediate II Q7] What role does A/B testing play in Influencer Marketing?",
+                "text": "What is the risk of \"Gifted Products\" (Product Seeding)?",
                 "options": [
-                    "It is completely irrelevant",
-                    "It deletes campaign data",
-                    "It helps identify the highest converting variations of a campaign."
+                    "It guarantees a viral video.",
+                    "The influencer must legally pay you for the item.",
+                    "It gives the brand total control over the caption.",
+                    "There is no legal contract; the influencer is not obligated to post, and they could even post a negative review if they dislike the product."
+                ],
+                "correctIndex": 3,
+                "explanation": "Without a contract and payment, the brand has no control. If the product is bad, gifting it might result in a PR disaster."
+            },
+            {
+                "text": "How do FTC guidelines apply to \"Gifted Items\"?",
+                "options": [
+                    "They don't apply; gifts are immune to laws.",
+                    "The influencer must return the gift.",
+                    "Even if no money exchanged hands, receiving a free product is a form of compensation and MUST be clearly disclosed to the audience.",
+                    "The brand must pay the FTC a fee."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "The FTC views a free $500 vacuum cleaner as compensation. The influencer must disclose \"Gifted by [Brand]\" to maintain legal compliance."
             },
             {
-                "text": "[Intermediate II Q8] Why is mobile-optimization important for Influencer Marketing?",
+                "text": "What is the major benefit of running \"Contests\" with influencers for a brand's social profile?",
                 "options": [
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Mobile users do not buy products",
-                    "Desktop traffic is the only traffic that matters"
+                    "Rapid audience acquisition and a massive spike in engagement as followers tag friends to enter the giveaway.",
+                    "It deletes fake followers from the brand's page.",
+                    "It lowers the cost of manufacturing.",
+                    "It prevents the brand from paying taxes."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Giveaways are designed for virality. A requirement like \"Tag 3 friends\" creates exponential organic reach very quickly."
             },
             {
-                "text": "[Intermediate II Q9] In Influencer Marketing, what does 'ROI' stand for?",
+                "text": "What does an \"Ambassador Exclusivity Clause\" protect the brand from?",
                 "options": [
-                    "Return on Investment",
-                    "Revenue over Internet",
-                    "Rate of Interaction"
+                    "The ambassador taking a vacation.",
+                    "The ambassador posting on YouTube instead of Instagram.",
+                    "The brand having to pay the ambassador.",
+                    "The ambassador promoting a direct competitor's product during the term of the agreement, which would destroy the campaign's credibility."
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 3,
+                "explanation": "You don't want your long-term Nike ambassador suddenly posting a video wearing Adidas. Exclusivity locks in their loyalty."
             },
             {
-                "text": "[Intermediate II Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
+                "text": "What is the defining feature of \"Performance-Based Payment\" for an influencer?",
                 "options": [
-                    "The Janitor",
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO."
+                    "They are paid based on how fast they reply to emails.",
+                    "They are compensated based on measurable results (e.g., $10 per signup) rather than a flat upfront fee.",
+                    "They are paid based on the video resolution.",
+                    "They pay the brand to perform."
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "This protects the brand's budget. If the influencer's audience doesn't convert, the brand doesn't lose money on a high flat fee."
             }
         ]
     },
@@ -12334,107 +12450,114 @@ export const activitiesData = [
         "pointsReward": 700,
         "questions": [
             {
-                "text": "[Advanced Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "When \"Finding Influencers,\" why is starting within your specific niche crucial?",
                 "options": [
-                    "Higher operational costs",
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
-                "options": [
-                    "Ignoring market research",
-                    "Defining clear objectives and KPIs.",
-                    "Spending the entire budget immediately"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/seo.png"
-            },
-            {
-                "text": "[Advanced Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
-                "options": [
-                    "Office location",
-                    "Number of employees in the company",
-                    "Conversion rate and Customer Acquisition Cost (CAC)."
+                    "It saves battery power on mobile devices.",
+                    "It hides the campaign from competitors.",
+                    "Relevance is more important than reach; an influencer in your exact niche guarantees their audience is comprised of your ideal target customers.",
+                    "It automatically generates a legal contract."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "A gardening tool brand will get more sales from a 10k-follower gardening expert than a 1M-follower gaming channel."
             },
             {
-                "text": "[Advanced Q4] What is a common pitfall to avoid in Influencer Marketing?",
+                "text": "What does \"Audience Alignment\" mean?",
                 "options": [
-                    "Using high-quality assets",
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
-            },
-            {
-                "text": "[Advanced Q5] How does Influencer Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting",
-                    "It only affects offline sales"
+                    "Checking if the influencer's follower demographics (age, location, interests) directly match your brand's buyer persona.",
+                    "Making sure the influencer's videos are perfectly horizontal.",
+                    "Ensuring all followers comment at the exact same time.",
+                    "Aligning the influencer's logo with the brand's logo."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
+                "explanation": "If you sell a product available only in the UK, hiring an influencer whose audience is 90% in the USA is a complete waste of money."
             },
             {
-                "text": "[Advanced Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
+                "text": "How do you evaluate an influencer's \"Engagement Rate\"?",
                 "options": [
-                    "A physical calculator",
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software."
+                    "By counting how many videos they post a week.",
+                    "By checking how fast they load their website.",
+                    "By seeing if they are engaged to be married.",
+                    "By dividing their average interactions (likes/comments) by their total followers; a higher percentage indicates an active, real audience."
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 3,
+                "explanation": "A 1M follower account with 500 likes per post has a dead (or fake) audience. Engagement rate proves the audience actually cares."
             },
             {
-                "text": "[Advanced Q7] What role does A/B testing play in Influencer Marketing?",
+                "text": "What is a major red flag indicating \"Fake Followers\" (Influencer Fraud)?",
                 "options": [
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It deletes campaign data",
-                    "It is completely irrelevant"
+                    "Posting high-quality images.",
+                    "A massive follower count paired with extremely low engagement, or comment sections filled entirely with emojis and bot-like spam.",
+                    "Having an email address in their bio.",
+                    "Posting videos longer than 10 minutes."
+                ],
+                "correctIndex": 1,
+                "explanation": "Anyone can buy 100k fake followers for cheap. Brands must analyze the *quality* of the comments to ensure they are talking to real humans."
+            },
+            {
+                "text": "What is the purpose of \"Influencer Discovery Tools\" (e.g., Upfluence, Grin)?",
+                "options": [
+                    "Software platforms that use data and filters to help brands search for, vet, and analyze influencers based on specific audience metrics and keywords.",
+                    "Tools that automatically hack influencer accounts.",
+                    "Physical magnifying glasses used by marketers.",
+                    "Tools that delete fake followers automatically."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Manually searching Instagram for hours is inefficient. Discovery tools allow a brand to instantly find \"Female fitness creators in New York with 5% engagement.\""
             },
             {
-                "text": "[Advanced Q8] Why is mobile-optimization important for Influencer Marketing?",
+                "text": "What does a \"Brand Safety Check\" entail during the vetting process?",
                 "options": [
-                    "Desktop traffic is the only traffic that matters",
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Mobile users do not buy products"
+                    "Ensuring the influencer wears safety goggles in videos.",
+                    "Reviewing the creator's past content to ensure they haven't posted offensive, controversial, or illegal material that could damage your brand's reputation.",
+                    "Installing antivirus software on the influencer's computer.",
+                    "Ensuring the product packaging is child-proof."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Brands share reputational risk with their partners. A brand safety check prevents PR disasters caused by past bad behavior."
             },
             {
-                "text": "[Advanced Q9] In Influencer Marketing, what does 'ROI' stand for?",
+                "text": "When \"Reaching Out\" to a professional influencer, what is the preferred method?",
                 "options": [
-                    "Rate of Interaction",
-                    "Return on Investment",
-                    "Revenue over Internet"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
-                "options": [
-                    "The Janitor",
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO."
+                    "Leaving a public comment on their latest photo.",
+                    "Sending a physical letter to their house.",
+                    "Sending a concise, professional email outlining the brand, the budget/collaboration idea, and why they are a perfect fit.",
+                    "Calling them repeatedly on the phone."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Professional creators treat their platforms like a business. A clear email to their business address is the industry standard for starting a negotiation."
+            },
+            {
+                "text": "Why is \"Personalizing Outreach\" essential when contacting influencers?",
+                "options": [
+                    "It bypasses the internet server limits.",
+                    "It is required by federal law.",
+                    "It allows you to use automated bot software.",
+                    "Top influencers receive hundreds of generic pitches daily; mentioning a specific recent post of theirs proves you actually follow their work and respect them."
+                ],
+                "correctIndex": 3,
+                "explanation": "\"Dear Influencer\" emails go straight to the trash. Personalization shows you value a true partnership, not just a transaction."
+            },
+            {
+                "text": "What is an Influencer \"Media Kit\"?",
+                "options": [
+                    "A box of camera equipment.",
+                    "A legal tax document.",
+                    "A digital portfolio provided by the influencer detailing their follower demographics, engagement stats, past brand work, and pricing packages.",
+                    "A software used to edit videos."
+                ],
+                "correctIndex": 2,
+                "explanation": "The media kit is the influencer's resume. It gives the brand the hard data they need to justify paying the creator's requested rates."
+            },
+            {
+                "text": "What is a key consideration when \"Negotiating Rates\" with an influencer?",
+                "options": [
+                    "Rates are fluid and often based on engagement, exclusivity requirements, usage rights, and the complexity of the content production.",
+                    "Influencers are not legally allowed to negotiate.",
+                    "You should always offer to pay them in exposure only.",
+                    "The government sets a strict minimum wage for all posts."
+                ],
+                "correctIndex": 0,
+                "explanation": "A simple story shoutout costs less than a highly edited 10-minute YouTube video. Usage rights (putting their ad on your website) also increase the cost."
             }
         ]
     },
@@ -12447,108 +12570,114 @@ export const activitiesData = [
         "pointsReward": 750,
         "questions": [
             {
-                "text": "[Advanced II Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "Why is checking \"Audience Demographics\" more important than just checking total followers?",
                 "options": [
-                    "Reduced visibility",
-                    "Increased efficiency and better ROI.",
-                    "Higher operational costs"
+                    "It proves the influencer uses a good camera.",
+                    "It guarantees the video will go viral.",
+                    "It prevents the influencer from deleting the post.",
+                    "Because an influencer might be from the US, but 80% of their followers might be in Brazil; if you don't ship to Brazil, the campaign is useless."
                 ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 3,
+                "explanation": "Geography, age, and gender demographics dictate whether the audience is actually eligible or interested in buying your specific product."
             },
             {
-                "text": "[Advanced II Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
+                "text": "How does \"Content Quality\" impact influencer selection?",
                 "options": [
-                    "Ignoring market research",
-                    "Spending the entire budget immediately",
-                    "Defining clear objectives and KPIs."
+                    "It dictates the speed of the server.",
+                    "The influencer's lighting, editing, and storytelling skills reflect directly on your brand; poor quality makes the brand look cheap.",
+                    "It has no impact as long as they have followers.",
+                    "It forces the brand to rewrite the script."
+                ],
+                "correctIndex": 1,
+                "explanation": "Influencers act as ad agencies. High-quality, aesthetic content elevates the perceived value of the product they are promoting."
+            },
+            {
+                "text": "What does \"Comment Sentiment\" analysis reveal during vetting?",
+                "options": [
+                    "Whether the audience leaves positive, engaged comments relevant to the post, or just spam bots leaving generic emojis.",
+                    "How many videos the influencer posted last year.",
+                    "The influencer's personal political views.",
+                    "The loading speed of the social app."
+                ],
+                "correctIndex": 0,
+                "explanation": "A post with 1,000 comments looks great until you realize 990 of them are bots saying \"Nice pic!\" Sentiment proves real human connection."
+            },
+            {
+                "text": "Why should a brand check the \"Frequency of Sponsored Posts\" on an influencer's feed?",
+                "options": [
+                    "To ensure they never post on weekends.",
+                    "If an influencer posts an ad every single day, their audience suffers from ad fatigue and stops trusting their recommendations.",
+                    "To count how much money they make.",
+                    "To legally steal their other brand deals."
+                ],
+                "correctIndex": 1,
+                "explanation": "You want to partner with creators who protect their audience's trust. A feed full of ads means your product will just be lost in the noise."
+            },
+            {
+                "text": "Why might a top influencer reject a brand's offer?",
+                "options": [
+                    "Because they do not know how to use email.",
+                    "Because they are legally banned from advertising.",
+                    "Because the product doesn't align with their personal brand, the budget is too low, or the brand demands too much creative control.",
+                    "Because social media platforms do not allow brands to pay creators."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Top creators protect their brand fiercely. If a product is bad or the contract is overly restrictive, they will turn down the money to keep their audience's trust."
             },
             {
-                "text": "[Advanced II Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
+                "text": "What is the best practice for \"Following up\" on outreach?",
                 "options": [
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Number of employees in the company",
-                    "Office location"
+                    "Calling their personal cell phone every hour.",
+                    "Sending an angry public tweet.",
+                    "Giving up immediately after one email.",
+                    "Sending a polite, concise follow-up email 3-5 days later, as influencers often have cluttered inboxes and may have missed the first message."
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
+                "correctIndex": 3,
+                "explanation": "Persistence is key in influencer marketing. A gentle bump to the top of their inbox often results in a positive reply."
             },
             {
-                "text": "[Advanced II Q4] What is a common pitfall to avoid in Influencer Marketing?",
+                "text": "What is an \"Influencer Talent Agency\"?",
                 "options": [
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
-            },
-            {
-                "text": "[Advanced II Q5] How does Influencer Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting",
-                    "It only affects offline sales"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced II Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
-                "options": [
-                    "A physical calculator",
-                    "Google Analytics or similar data tracking software.",
-                    "Microsoft Word"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced II Q7] What role does A/B testing play in Influencer Marketing?",
-                "options": [
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It deletes campaign data",
-                    "It is completely irrelevant"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced II Q8] Why is mobile-optimization important for Influencer Marketing?",
-                "options": [
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
-            },
-            {
-                "text": "[Advanced II Q9] In Influencer Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Rate of Interaction",
-                    "Return on Investment",
-                    "Revenue over Internet"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Advanced II Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
-                "options": [
-                    "The Janitor",
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO."
+                    "An agency that trains actors for television.",
+                    "A government regulatory body.",
+                    "A management company that represents top influencers, handling their negotiations, contracts, and brand communications on their behalf.",
+                    "A software tool used to edit photos."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
+                "explanation": "When reaching out to massive influencers, you will rarely speak to them directly. You will negotiate with their talent manager."
+            },
+            {
+                "text": "Why must a brand evaluate an influencer \"Across Multiple Platforms\"?",
+                "options": [
+                    "An influencer might have 1M followers on TikTok but only 5k on Instagram; the brand must ensure they are paying for the platform where the influence actually lives.",
+                    "To delete their accounts on other platforms.",
+                    "To force them to merge all their accounts into one.",
+                    "To ensure they use the same profile picture everywhere."
+                ],
+                "correctIndex": 0,
+                "explanation": "Influence rarely transfers equally across platforms. If the contract mandates an Instagram post, you need to verify their Instagram engagement, not their TikTok size."
+            },
+            {
+                "text": "What does the term \"Reach\" mean when evaluating an influencer?",
+                "options": [
+                    "How physically tall the influencer is.",
+                    "The total number of likes a post receives.",
+                    "The cost to produce the video.",
+                    "The total number of unique people who are estimated to actually see the influencer's content."
+                ],
+                "correctIndex": 3,
+                "explanation": "Follower count is a vanity metric; Reach tells you the actual number of eyeballs that will be exposed to your campaign."
+            },
+            {
+                "text": "Why is \"Niche Relevance\" often prioritized over \"Massive Reach\"?",
+                "options": [
+                    "Because massive reach is illegal.",
+                    "10,000 highly targeted prospects are much more likely to buy a specialized product than 1 million random, untargeted viewers.",
+                    "Because niche relevance costs more money.",
+                    "Because it hides the post from competitors."
+                ],
+                "correctIndex": 1,
+                "explanation": "In marketing, relevance equals conversion. Mass reach is great for Coca-Cola, but terrible for a highly specialized B2B software tool."
             }
         ]
     },
@@ -12561,106 +12690,114 @@ export const activitiesData = [
         "pointsReward": 800,
         "questions": [
             {
-                "text": "[Expert Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "What is the first step in \"Creating an Influencer Campaign\"?",
                 "options": [
-                    "Higher operational costs",
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
-                "options": [
-                    "Spending the entire budget immediately",
-                    "Ignoring market research",
-                    "Defining clear objectives and KPIs."
+                    "Sending money to a random account.",
+                    "Writing the video script.",
+                    "Clearly defining the campaign goals (e.g., Brand Awareness, Lead Gen, or Direct Sales) to dictate who you hire and how you measure success.",
+                    "Deleting the brand's social media."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Without a goal, you can't measure ROI. If the goal is sales, you need an affiliate structure. If the goal is awareness, you focus on high reach."
             },
             {
-                "text": "[Expert Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
+                "text": "What is the primary purpose of a \"Creative Brief\"?",
                 "options": [
-                    "Office location",
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Number of employees in the company"
+                    "To provide the influencer with brand guidelines, campaign objectives, required talking points, and visual \"Do's and Don'ts\" while allowing creative freedom.",
+                    "To legally sue the influencer.",
+                    "To block the influencer's internet access.",
+                    "To design the brand's logo."
+                ],
+                "correctIndex": 0,
+                "explanation": "The brief is the roadmap. It ensures the influencer hits the necessary marketing points without needing to script every single word they say."
+            },
+            {
+                "text": "What are \"Content Rights\" (Usage Rights) in an influencer contract?",
+                "options": [
+                    "The right to delete the influencer's social media profile.",
+                    "The right for the influencer to take over the company.",
+                    "The influencer's right to sue the brand.",
+                    "The legal agreement detailing how long and where the brand is allowed to reuse the influencer's content (e.g., on the brand's website or in paid ads)."
+                ],
+                "correctIndex": 3,
+                "explanation": "By default, creators own their copyright. Brands must negotiate rights to put that video in an email newsletter or a Facebook ad."
+            },
+            {
+                "text": "What is the function of an \"Exclusivity Clause\"?",
+                "options": [
+                    "It forces the influencer to work for free.",
+                    "It legally prevents the influencer from promoting a direct competitor for a specified timeframe before and after your campaign.",
+                    "It ensures the brand only sells one product.",
+                    "It hides the influencer's follower count."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "You don't want an influencer saying your skincare brand is \"the best\" on Monday, and then saying a rival brand is \"the best\" on Tuesday."
             },
             {
-                "text": "[Expert Q4] What is a common pitfall to avoid in Influencer Marketing?",
+                "text": "How should a brand \"Manage Influencer Relationships\" effectively?",
                 "options": [
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets",
-                    "Targeting a specific audience"
+                    "Treat them as true partners, communicate clearly, pay on time, and provide constructive feedback to build long-term loyalty.",
+                    "Ignore their emails until the post is live.",
+                    "Demand that they work exclusively from the brand's office.",
+                    "Threaten legal action if a post doesn't go viral."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Influencers talk to each other. Brands with a reputation for being terrible to work with will quickly find themselves blacklisted by top creators."
             },
             {
-                "text": "[Expert Q5] How does Influencer Marketing impact the overall marketing funnel?",
+                "text": "Why is \"Allowing Creative Freedom\" critical for campaign success?",
                 "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It only affects offline sales",
-                    "It prevents users from converting"
+                    "It saves the brand from writing contracts.",
+                    "The creator knows exactly what format, tone, and humor their audience responds to; corporate interference usually results in a poorly performing, \"cringey\" ad.",
+                    "It is required by the social media platforms.",
+                    "It reduces the file size of the video."
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 1,
+                "explanation": "You hire an influencer for their unique voice. If you force them to read a robotic corporate script, the audience will swipe past it immediately."
             },
             {
-                "text": "[Expert Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
+                "text": "How do brands ensure FTC Compliance in influencer campaigns?",
                 "options": [
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator",
-                    "Microsoft Word"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/social.png"
-            },
-            {
-                "text": "[Expert Q7] What role does A/B testing play in Influencer Marketing?",
-                "options": [
-                    "It is completely irrelevant",
-                    "It deletes campaign data",
-                    "It helps identify the highest converting variations of a campaign."
+                    "By paying in cash only.",
+                    "By hiding the brand logo.",
+                    "By mandating in the contract that the creator must use clear disclosures like #ad, #sponsored, or the platform's \"Paid Partnership\" tag.",
+                    "By deleting the video after 24 hours."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "The brand shares legal liability. If an influencer fails to disclose the sponsorship, the FTC can fine the brand heavily."
             },
             {
-                "text": "[Expert Q8] Why is mobile-optimization important for Influencer Marketing?",
+                "text": "What is the \"Approval Process\" in a campaign timeline?",
                 "options": [
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products"
+                    "Waiting for the social network to approve the account.",
+                    "The audience voting on whether they liked the video.",
+                    "The legal team approving the influencer's taxes.",
+                    "A step where the influencer submits the draft content to the brand for review to check for factual errors before it is published live."
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/brand.png"
+                "correctIndex": 3,
+                "explanation": "Mistakes happen. The approval step ensures the creator didn't accidentally mispronounce the brand name or use an expired promo code."
             },
             {
-                "text": "[Expert Q9] In Influencer Marketing, what does 'ROI' stand for?",
+                "text": "How do brands \"Track Clicks\" from an influencer's post?",
                 "options": [
-                    "Return on Investment",
-                    "Revenue over Internet",
-                    "Rate of Interaction"
+                    "By guessing based on comments.",
+                    "By asking the influencer to count them manually.",
+                    "By providing the influencer with unique UTM-tagged trackable links (e.g., bit.ly or specific landing pages) to see exactly how much traffic they drove.",
+                    "By looking at the influencer's follower count."
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 2,
+                "explanation": "Trackable links isolate the influencer's impact, proving definitively if their audience actually visited the brand's website."
             },
             {
-                "text": "[Expert Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
+                "text": "What is the value of assigning \"Unique Promo Codes\"?",
                 "options": [
-                    "The Marketing Manager or CMO.",
-                    "The Janitor",
-                    "The Chief Legal Officer"
+                    "It allows tracking of sales originating from platforms where direct linking is difficult (like Instagram posts or Podcasts) because the user applies the code at checkout.",
+                    "It changes the design of the website.",
+                    "It blocks competitor users from buying.",
+                    "It prevents the influencer from getting paid."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Even if a user watches a YouTube video on their TV and later buys the product on their phone, the promo code ensures the influencer still gets credit."
             }
         ]
     },
@@ -12673,108 +12810,114 @@ export const activitiesData = [
         "pointsReward": 850,
         "questions": [
             {
-                "text": "[Expert II Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "What is standard practice regarding \"Payment Terms\" for influencers?",
                 "options": [
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility",
-                    "Higher operational costs"
+                    "Paying them only if the post goes viral.",
+                    "Refusing to pay if the product doesn't sell out.",
+                    "Paying them 5 years after the campaign.",
+                    "Outlining payment schedules in the contract, typically Net-30 after the content goes live, or 50% upfront and 50% upon completion."
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 3,
+                "explanation": "Clear payment terms are professional. High-demand influencers often require upfront deposits to secure their time on their content calendar."
             },
             {
-                "text": "[Expert II Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
+                "text": "Why is tracking \"Earned Media Value\" (EMV) used by some brands?",
                 "options": [
-                    "Ignoring market research",
-                    "Spending the entire budget immediately",
-                    "Defining clear objectives and KPIs."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
-            },
-            {
-                "text": "[Expert II Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
-                "options": [
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Office location",
-                    "Number of employees in the company"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert II Q4] What is a common pitfall to avoid in Influencer Marketing?",
-                "options": [
-                    "Using high-quality assets",
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/seo.png"
-            },
-            {
-                "text": "[Expert II Q5] How does Influencer Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It only affects offline sales",
-                    "It prevents users from converting",
-                    "It drives users towards the final conversion goal."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Expert II Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
-                "options": [
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator"
+                    "It calculates the influencer's age.",
+                    "It assigns a dollar value to the engagement (likes, comments, shares) the influencer generated, comparing it to what those metrics would have cost in paid ads.",
+                    "It deletes negative comments.",
+                    "It hides the brand's budget."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
+                "explanation": "EMV helps justify the ROI of brand awareness campaigns, showing executives the equivalent monetary value of the viral reach achieved."
             },
             {
-                "text": "[Expert II Q7] What role does A/B testing play in Influencer Marketing?",
+                "text": "How does a brand calculate \"Return on Investment (ROI)\" for a sales campaign?",
                 "options": [
-                    "It deletes campaign data",
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It is completely irrelevant"
+                    "(Total Revenue generated by the influencer's tracking links/codes - Cost of the Influencer) / Cost of the Influencer.",
+                    "Counting the number of likes divided by the number of comments.",
+                    "Total follower count minus total video views.",
+                    "The influencer's fee multiplied by the video length."
+                ],
+                "correctIndex": 0,
+                "explanation": "This formula provides the hard financial truth. If you spent $5k and made $15k, your ROI is highly positive."
+            },
+            {
+                "text": "If the goal is \"Brand Awareness,\" which metrics should you measure?",
+                "options": [
+                    "The number of sales and email signups.",
+                    "Impressions, Reach, Video Views, and overall Brand Mention volume.",
+                    "The influencer's travel expenses.",
+                    "The loading speed of the landing page."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Awareness is about visibility. You evaluate success based on how many people saw the brand name, not immediate purchases."
             },
             {
-                "text": "[Expert II Q8] Why is mobile-optimization important for Influencer Marketing?",
+                "text": "If the goal is \"Conversion,\" which metrics should you track?",
                 "options": [
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Mobile users do not buy products",
-                    "Desktop traffic is the only traffic that matters"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/email.png"
-            },
-            {
-                "text": "[Expert II Q9] In Influencer Marketing, what does 'ROI' stand for?",
-                "options": [
-                    "Revenue over Internet",
-                    "Rate of Interaction",
-                    "Return on Investment"
+                    "The number of emojis used in the comments.",
+                    "The influencer's follower growth rate.",
+                    "Click-Through Rate (CTR), Cost Per Acquisition (CPA), and total sales volume.",
+                    "The color scheme of the video."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Conversions are actions. You must track how effectively the influencer moved their audience from the social app to the checkout page."
             },
             {
-                "text": "[Expert II Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
+                "text": "What is a \"Deliverable\" in a campaign contract?",
                 "options": [
-                    "The Marketing Manager or CMO.",
-                    "The Janitor",
-                    "The Chief Legal Officer"
+                    "The package the product is shipped in.",
+                    "The legal jurisdiction of the contract.",
+                    "The server hosting the website.",
+                    "The exact pieces of content the influencer must provide (e.g., 1 Dedicated YouTube Video, 2 Instagram Stories with swipe-up links)."
+                ],
+                "correctIndex": 3,
+                "explanation": "Deliverables define the scope of work so there is no ambiguity about what the brand is paying for."
+            },
+            {
+                "text": "Why do brands focus on \"Long-Term Relationship Management\"?",
+                "options": [
+                    "To control the influencer's personal life.",
+                    "To avoid paying taxes.",
+                    "Retaining a high-performing influencer as an ambassador is cheaper and yields higher trust than constantly searching for new, unproven creators.",
+                    "To delete their past posts."
+                ],
+                "correctIndex": 2,
+                "explanation": "Just like customer retention is cheaper than acquisition, retaining a proven influencer partner is highly efficient and drives compounding ROI."
+            },
+            {
+                "text": "How should a brand handle \"Negative Feedback\" on an influencer's sponsored post?",
+                "options": [
+                    "Monitor the comments; if legitimate issues are raised, address them professionally; if it's abusive trolling, work with the creator to moderate it.",
+                    "Immediately sue the influencer.",
+                    "Delete their own social media accounts.",
+                    "Demand the influencer refund the money."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Brands must navigate social media carefully. Engaging politely with criticism in an influencer's comments can actually boost brand perception."
+            },
+            {
+                "text": "What is a \"Post-Campaign Analysis\"?",
+                "options": [
+                    "Deleting the campaign data.",
+                    "Firing the marketing team.",
+                    "Changing the product pricing.",
+                    "Reviewing all metrics, ROI, and content performance after the campaign ends to determine if the influencer should be hired again in the future."
+                ],
+                "correctIndex": 3,
+                "explanation": "Data-driven marketers never guess. They review the final report to see if the campaign met its goals and to optimize future briefs."
+            },
+            {
+                "text": "What is \"Repurposing Influencer Content\"?",
+                "options": [
+                    "Stealing content from unpaid creators.",
+                    "Taking a high-performing influencer video and running it as a paid Facebook Ad or placing it on the brand's product landing page (if usage rights permit).",
+                    "Deleting the video and recording it again.",
+                    "Translating the text into different languages automatically."
+                ],
+                "correctIndex": 1,
+                "explanation": "This maximizes ROI. An authentic influencer video often performs 3x better as a Facebook ad than a polished corporate graphic."
             }
         ]
     },
@@ -12787,107 +12930,114 @@ export const activitiesData = [
         "pointsReward": 900,
         "questions": [
             {
-                "text": "[Master Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "In the Case Study of Nike x Cristiano Ronaldo, what was the primary goal?",
                 "options": [
-                    "Increased efficiency and better ROI.",
-                    "Reduced visibility",
-                    "Higher operational costs"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Master Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
-                "options": [
-                    "Defining clear objectives and KPIs.",
-                    "Ignoring market research",
-                    "Spending the entire budget immediately"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/social.png"
-            },
-            {
-                "text": "[Master Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
-                "options": [
-                    "Office location",
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Number of employees in the company"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Master Q4] What is a common pitfall to avoid in Influencer Marketing?",
-                "options": [
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets"
-                ],
-                "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Master Q5] How does Influencer Marketing impact the overall marketing funnel?",
-                "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It prevents users from converting",
-                    "It only affects offline sales"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/seo.png"
-            },
-            {
-                "text": "[Master Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
-                "options": [
-                    "A physical calculator",
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software."
+                    "To sell a new type of basketball.",
+                    "To promote a local charity in one city.",
+                    "To leverage his massive global Mega-Influencer reach to solidify Nike's dominance in the global soccer (football) lifestyle market.",
+                    "To test a new website layout."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Ronaldo is one of the most followed humans on earth. Nike uses his unparalleled global reach to maintain massive top-of-mind brand dominance."
             },
             {
-                "text": "[Master Q7] What role does A/B testing play in Influencer Marketing?",
+                "text": "Why does Nike use a \"Lifetime Contract\" with Cristiano Ronaldo?",
                 "options": [
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It deletes campaign data",
-                    "It is completely irrelevant"
+                    "Because long-term association weaves the athlete's personal legacy inextricably with the brand, ensuring ultimate authenticity and lifelong ambassador loyalty.",
+                    "Because it is illegal to sign short-term sports contracts.",
+                    "To prevent him from playing sports.",
+                    "To save money on annual legal fees."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Lifetime deals ensure that the public never associates the influencer with a competitor, locking down their influence for generations."
             },
             {
-                "text": "[Master Q8] Why is mobile-optimization important for Influencer Marketing?",
+                "text": "In the Case Study of Red Bull x David Dobrik, what strategy was utilized?",
                 "options": [
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices.",
-                    "Desktop traffic is the only traffic that matters"
+                    "Forcing Dobrik to read a strict script about the ingredients of the drink.",
+                    "Having Dobrik post plain text articles.",
+                    "Changing the color of the Red Bull can.",
+                    "Seamlessly integrating the product into Dobrik's high-energy, extreme lifestyle vlogs, aligning the brand's identity with his chaotic, adventurous content."
+                ],
+                "correctIndex": 3,
+                "explanation": "Red Bull doesn't sell \"drinks\"; they sell \"energy and lifestyle.\" Integrating naturally into Dobrik's stunts perfectly matched their brand ethos."
+            },
+            {
+                "text": "Why did Red Bull focus on \"Lifestyle Integration\" rather than direct product pushing?",
+                "options": [
+                    "Because direct pushing is illegal on YouTube.",
+                    "Modern audiences tune out aggressive commercials; by making the product a natural prop in a highly entertaining video, the brand avoids \"ad blindness.\"",
+                    "Because Red Bull does not want to sell products.",
+                    "To hide the product from competitors."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "When Dobrik drinks a Red Bull before doing a stunt, the audience doesn't feel like they are watching an ad, making the branding highly effective."
             },
             {
-                "text": "[Master Q9] In Influencer Marketing, what does 'ROI' stand for?",
+                "text": "What made the Red Bull x David Dobrik campaign highly \"Authentic\"?",
                 "options": [
-                    "Return on Investment",
-                    "Revenue over Internet",
-                    "Rate of Interaction"
+                    "Dobrik was genuinely known for his high-energy persona and stunts, making the partnership with an energy drink feel entirely natural and believable to his audience.",
+                    "He was forced to pretend to be a professional athlete.",
+                    "He never actually showed the product on camera.",
+                    "He deleted all his old videos before the campaign."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept.",
-                "image": "assets/images/dashboard.png"
+                "explanation": "If an influencer is known for being sleepy and calm, an energy drink ad feels fake. The perfect match of creator persona and brand identity drives success."
             },
             {
-                "text": "[Master Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
+                "text": "How is the impact of massive campaigns (like David Dobrik's) measured when direct links aren't used?",
                 "options": [
-                    "The Chief Legal Officer",
-                    "The Marketing Manager or CMO.",
-                    "The Janitor"
+                    "By guessing based on the weather.",
+                    "Through massive spikes in Earned Media Value, overall video views, social sentiment, and macro-level brand search volume during the campaign period.",
+                    "By tracking the physical location of the viewers.",
+                    "By counting how many times the video buffers."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "For giant awareness campaigns, brands look at massive systemic lifts in organic searches and brand mentions, rather than just direct link clicks."
+            },
+            {
+                "text": "How can B2B companies successfully use Influencer Marketing?",
+                "options": [
+                    "By hiring child actors.",
+                    "By avoiding social media.",
+                    "By partnering with industry experts, podcast hosts, or respected analysts to write whitepapers or host webinars, transferring their professional credibility to the brand.",
+                    "By posting memes on Instagram."
+                ],
+                "correctIndex": 2,
+                "explanation": "B2B influence is about expertise. An endorsement from a trusted industry analyst can drive millions of dollars in enterprise software sales."
+            },
+            {
+                "text": "What was the driving factor behind Daniel Wellington's explosive watch brand growth?",
+                "options": [
+                    "Buying Super Bowl commercials.",
+                    "Opening thousands of physical retail stores.",
+                    "Refusing to use social media.",
+                    "A massive Micro-Influencer campaign, gifting watches to thousands of smaller creators in exchange for posts, creating the illusion that \"everyone\" was wearing one."
+                ],
+                "correctIndex": 3,
+                "explanation": "Daniel Wellington built a multi-million dollar empire almost entirely by seeding free watches to micro-influencers, dominating the Instagram aesthetic."
+            },
+            {
+                "text": "What is a key success factor in a Micro-Influencer campaign?",
+                "options": [
+                    "Paying millions of dollars per post.",
+                    "Restricting them to only posting text.",
+                    "Activating a large volume of creators simultaneously to create a \"surround sound\" effect, making the brand appear to be a massive trending movement.",
+                    "Deleting the brand's website."
+                ],
+                "correctIndex": 2,
+                "explanation": "One micro-influencer won't move the needle globally, but 500 micro-influencers posting on the same weekend creates massive viral hype."
+            },
+            {
+                "text": "What does the metric \"Cost Per Engagement\" (CPE) evaluate?",
+                "options": [
+                    "How efficiently your budget generated active audience interactions (Total Spend / Total Likes + Comments), proving if the content actually resonated.",
+                    "The cost of a wedding ring.",
+                    "The influencer's monthly salary.",
+                    "The cost of manufacturing the product."
+                ],
+                "correctIndex": 0,
+                "explanation": "A low CPE means you paid very little for a highly active, engaged response, indicating a highly successful creative partnership."
             }
         ]
     },
@@ -12900,104 +13050,114 @@ export const activitiesData = [
         "pointsReward": 950,
         "questions": [
             {
-                "text": "[Grandmaster Q1] What is the primary benefit of optimizing Influencer Marketing?",
+                "text": "What is the impact of iOS Privacy Updates (ATT) on influencer marketing?",
                 "options": [
-                    "Higher operational costs",
-                    "Reduced visibility",
-                    "Increased efficiency and better ROI."
+                    "It made Apple devices illegal to use.",
+                    "It forced all influencers to buy Androids.",
+                    "It stopped videos from playing on mobile.",
+                    "As traditional paid ad tracking became less accurate, brands shifted more budget toward influencers to leverage their direct, organic audience reach."
                 ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 3,
+                "explanation": "Because Facebook ads lost tracking precision, brands moved money to influencers, relying on their native audiences to drive sales."
             },
             {
-                "text": "[Grandmaster Q2] When implementing a strategy for Influencer Marketing, what is the first step?",
+                "text": "What is a \"Virtual Influencer\"?",
                 "options": [
-                    "Spending the entire budget immediately",
-                    "Ignoring market research",
-                    "Defining clear objectives and KPIs."
-                ],
-                "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Grandmaster Q3] Which metric is most crucial when measuring the success of Influencer Marketing?",
-                "options": [
-                    "Conversion rate and Customer Acquisition Cost (CAC).",
-                    "Office location",
-                    "Number of employees in the company"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Grandmaster Q4] What is a common pitfall to avoid in Influencer Marketing?",
-                "options": [
-                    "Targeting a specific audience",
-                    "Failing to track data and measure performance.",
-                    "Using high-quality assets"
+                    "An influencer who only uses VR headsets.",
+                    "A CGI-created digital character (like Lil Miquela) managed by an agency, offering brands ultimate control over messaging and zero risk of real-world human scandal.",
+                    "An influencer who hides their face.",
+                    "A bot that leaves spam comments."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Virtual influencers are a futuristic trend. They never age, they don't demand travel accommodations, and they can be perfectly scripted by corporate PR."
             },
             {
-                "text": "[Grandmaster Q5] How does Influencer Marketing impact the overall marketing funnel?",
+                "text": "How is AI changing Influencer Discovery?",
                 "options": [
-                    "It drives users towards the final conversion goal.",
-                    "It only affects offline sales",
-                    "It prevents users from converting"
+                    "By allowing brands to rapidly analyze millions of profiles, matching complex audience demographics, sentiment, and image recognition to find perfect creator fits instantly.",
+                    "By deleting all human influencers from platforms.",
+                    "By writing laws regulating social media.",
+                    "By automatically designing the brand's products."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "AI tools scan thousands of hours of video to ensure an influencer hasn't mentioned a competitor, saving brands hundreds of hours of manual research."
             },
             {
-                "text": "[Grandmaster Q6] Which tool is commonly associated with analyzing Influencer Marketing?",
+                "text": "What is the \"Creator Economy\"?",
                 "options": [
-                    "Microsoft Word",
-                    "Google Analytics or similar data tracking software.",
-                    "A physical calculator"
+                    "A bank that issues loans to businesses.",
+                    "The financial ecosystem where independent creators build businesses, monetize their audiences directly (via tips, subscriptions), and partner with brands.",
+                    "A government tax program.",
+                    "A software used to edit photos."
                 ],
                 "correctIndex": 1,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Creators are no longer just \"posting pictures\"; they are independent media companies that brands must treat as highly valuable B2B partners."
             },
             {
-                "text": "[Grandmaster Q7] What role does A/B testing play in Influencer Marketing?",
+                "text": "Why do brands utilize \"Cross-Platform Promotion\" in influencer contracts?",
                 "options": [
-                    "It helps identify the highest converting variations of a campaign.",
-                    "It is completely irrelevant",
-                    "It deletes campaign data"
-                ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
-            },
-            {
-                "text": "[Grandmaster Q8] Why is mobile-optimization important for Influencer Marketing?",
-                "options": [
-                    "Desktop traffic is the only traffic that matters",
-                    "Mobile users do not buy products",
-                    "The majority of global web traffic comes from mobile devices."
+                    "To limit the influencer's reach.",
+                    "To hide the post from certain users.",
+                    "To maximize ROI by ensuring the creator posts the video on TikTok for viral reach, and also on Instagram Stories with a link for direct conversions.",
+                    "To delete the video from YouTube."
                 ],
                 "correctIndex": 2,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Different platforms serve different funnel stages. TikTok brings the eyeballs; Instagram brings the clicks. Utilizing both maximizes campaign success."
             },
             {
-                "text": "[Grandmaster Q9] In Influencer Marketing, what does 'ROI' stand for?",
+                "text": "What is the advantage of \"Video Integration\" over static photo posts?",
                 "options": [
-                    "Return on Investment",
-                    "Rate of Interaction",
-                    "Revenue over Internet"
+                    "Videos are always cheaper to make.",
+                    "Videos require no editing.",
+                    "Videos hide the product entirely.",
+                    "Video allows the creator to demonstrate the product\u2019s utility, show their genuine emotion, and hold audience attention significantly longer than a photo."
                 ],
-                "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "correctIndex": 3,
+                "explanation": "A photo of a vacuum cleaner is boring. A video of a creator effortlessly cleaning a massive mess proves the product works and drives sales."
             },
             {
-                "text": "[Grandmaster Q10] Which stakeholder usually oversees the performance of Influencer Marketing?",
+                "text": "What is \"User-Generated Content (UGC) whitelisting\"?",
                 "options": [
-                    "The Marketing Manager or CMO.",
-                    "The Chief Legal Officer",
-                    "The Janitor"
+                    "Deleting user content.",
+                    "Creating fake reviews.",
+                    "Paying a creator strictly to make an authentic-looking video that the brand will use purely as a Facebook Ad, without the creator posting it to their own feed.",
+                    "Hiding the brand's logo."
+                ],
+                "correctIndex": 2,
+                "explanation": "This is a major trend. Brands realize UGC ads convert better than slick corporate ads, so they hire creators essentially as freelance video producers."
+            },
+            {
+                "text": "How do you define a \"Successful Influencer Campaign\"?",
+                "options": [
+                    "The campaign met or exceeded its pre-defined KPIs (whether sales or awareness), stayed within budget, and generated positive brand sentiment.",
+                    "The influencer received free products.",
+                    "The brand changed its logo.",
+                    "The video was longer than an hour."
                 ],
                 "correctIndex": 0,
-                "explanation": "Understanding Influencer Marketing is key to mastering this concept."
+                "explanation": "Success is objective. If you hit your targets and the data proves a positive ROI, the campaign was a definitive win."
+            },
+            {
+                "text": "What does the future of Influencer Marketing heavily rely on?",
+                "options": [
+                    "Banning social media globally.",
+                    "Returning to traditional print magazines.",
+                    "Using only mega-celebrities for all ads.",
+                    "Deep authenticity, long-term ambassador partnerships, data-driven tracking, and integration with emerging social commerce (in-app shopping) features."
+                ],
+                "correctIndex": 3,
+                "explanation": "The industry is maturing. Consumers demand authenticity, and brands demand hard data and frictionless shopping integration to prove ROI."
+            },
+            {
+                "text": "In summary, why is Influencer Marketing so dominant in modern digital strategy?",
+                "options": [
+                    "It is the only legal form of marketing.",
+                    "It bypasses ad-blockers and traditional marketing cynicism by delivering brand messages through highly trusted, native, and entertaining human voices.",
+                    "It requires absolutely no budget.",
+                    "It guarantees that a company will never go bankrupt."
+                ],
+                "correctIndex": 1,
+                "explanation": "People trust people. Influencer marketing succeeds because it is the digital evolution of word-of-mouth recommendations at a massive scale."
             }
         ]
     },
